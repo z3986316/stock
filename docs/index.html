@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>주식 리포트</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="site-header">
+  <h1>주식 리포트</h1>
+  <p id="generated" class="muted"></p>
+</header>
+
+<section class="card">
+  <h2>종목 비교 (시작일 기준 정규화)</h2>
+  <div class="chart-wrap"><canvas id="comparison-chart"></canvas></div>
+</section>
+
+<main id="tickers"></main>
+
+<footer class="site-footer muted">
+  <p>데이터: pykrx · 뉴스: Google News RSS · 차트: Chart.js</p>
+  <p>예상 범위는 GBM 모델 기준 95% 신뢰구간이며 참고용입니다.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

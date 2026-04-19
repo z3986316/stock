@@ -57,7 +57,9 @@ def fetch_headlines(keywords, max_age_hours: int = 48, per_query: int = 3):
             if pub and pub < cutoff:
                 continue
             seen.add(title)
-            items.append({"title": title, "pub": pub, "kw": kw})
+            items.append(
+                {"title": title, "pub": pub, "kw": kw, "link": e.get("link") or ""}
+            )
     items.sort(
         key=lambda x: x["pub"] or datetime.min.replace(tzinfo=timezone.utc),
         reverse=True,
