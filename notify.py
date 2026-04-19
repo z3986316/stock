@@ -35,6 +35,23 @@ def split_by_section(text: str) -> list[str]:
     return chunks
 
 
+def strip_news_sections(text: str) -> str:
+    out: list[str] = []
+    skipping = False
+    for line in text.splitlines(keepends=True):
+        if "[관련 뉴스" in line:
+            skipping = True
+            continue
+        if skipping:
+            # 다음 종목 헤더 (공백 없이 시작하는 줄) 만나면 뉴스 블록 끝
+            if line.strip() and not line.startswith(" "):
+                skipping = False
+                out.append(line)
+            continue
+        out.append(line)
+    return "".join(out).rstrip() + "\n"
+
+
 def run_analysis(tickers: list[str]) -> str:
     cmd = [sys.executable, "price.py", *tickers]
     result = subprocess.run(
@@ -45,7 +62,7 @@ def run_analysis(tickers: list[str]) -> str:
     )
     if result.returncode != 0:
         return f"[분석 실패] exit={result.returncode}\n\nstderr:\n{result.stderr}"
-    return result.stdout
+    return strip_news_sections(result.stdout)
 
 
 def main() -> None:
