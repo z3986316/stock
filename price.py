@@ -51,6 +51,14 @@ def fmt(n: float) -> str:
     return f"{int(round(n)):,}원"
 
 
+def pct_sign(val: float) -> str:
+    if val > 0.005:
+        return "🔴"
+    if val < -0.005:
+        return "🔵"
+    return "⚪"
+
+
 WEEKDAY_KO = ["월", "화", "수", "목", "금", "토", "일"]
 
 
@@ -195,7 +203,7 @@ def generate_observations(df: pd.DataFrame, latest_price: int, mu: float, sigma:
         start = tail[-streak - 1]
         cum = (latest_price - start) / start * 100
         word = "상승" if direction == "up" else "하락"
-        out.append(f"{streak}거래일 연속 {word}, 누적 {cum:+.2f}%")
+        out.append(f"{streak}거래일 연속 {word}, 누적 {pct_sign(cum)} {cum:+.2f}%")
 
     # MA 정렬
     ma5 = closes.rolling(5).mean().iloc[-1]
@@ -214,7 +222,8 @@ def generate_observations(df: pd.DataFrame, latest_price: int, mu: float, sigma:
     hi_pct = (latest_price - hi) / hi * 100
     lo_pct = (latest_price - lo) / lo * 100
     out.append(
-        f"52주 최고 {fmt(hi)} 대비 {hi_pct:+.2f}%, 최저 {fmt(lo)} 대비 {lo_pct:+.2f}%"
+        f"52주 최고 {fmt(hi)} 대비 {pct_sign(hi_pct)} {hi_pct:+.2f}%, "
+        f"최저 {fmt(lo)} 대비 {pct_sign(lo_pct)} {lo_pct:+.2f}%"
     )
 
     # 변동성
@@ -227,7 +236,7 @@ def generate_observations(df: pd.DataFrame, latest_price: int, mu: float, sigma:
     # 연율 drift
     ann_drift = mu * 252 * 100
     out.append(
-        f"최근 120일 평균 추세 연율 {ann_drift:+.1f}% - 미래 중심값은 이 추세 연장 가정"
+        f"최근 120일 평균 추세 연율 {pct_sign(ann_drift)} {ann_drift:+.1f}% - 미래 중심값은 이 추세 연장 가정"
     )
 
     return out
@@ -255,7 +264,7 @@ def analyze(ticker: str) -> None:
         date_str = fmt_date_short(d)
         if prev_p is not None:
             chg = (p - prev_p) / prev_p * 100 if prev_p else 0
-            print(f"  - {label} ({date_str}): {prev_p:,} → {p:,}원 ({chg:+.2f}%)")
+            print(f"  - {label} ({date_str}): {prev_p:,} → {p:,}원 {pct_sign(chg)} {chg:+.2f}%")
         else:
             print(f"  - {label} ({date_str}): {p:,}원")
 
@@ -266,7 +275,7 @@ def analyze(ticker: str) -> None:
         pct_rt = (rt["price"] - latest_price) / latest_price * 100 if latest_price else 0
         print(
             f"  - 실시간 ({status}): {latest_price:,} → {rt['price']:,}원 "
-            f"({pct_rt:+.2f}%)  [{rt['traded_at']}]"
+            f"{pct_sign(pct_rt)} {pct_rt:+.2f}%  [{rt['traded_at']}]"
         )
 
     # 미래 예상
@@ -276,12 +285,13 @@ def analyze(ticker: str) -> None:
     for (label, h, center, low, high), (_, fd, _) in zip(fut_rows, future_points):
         low_pct = (low - latest_price) / latest_price * 100
         high_pct = (high - latest_price) / latest_price * 100
+        center_pct = (center - latest_price) / latest_price * 100
         date_str = fmt_date_short(fd)
         print(
             f"  - {label} ({date_str}): "
             f"{fmt(low)} ~ {fmt(high)} "
-            f"(현재가 대비 {low_pct:+.2f}% ~ {high_pct:+.2f}%), "
-            f"중심 {fmt(center)}"
+            f"(현재가 대비 {pct_sign(low_pct)} {low_pct:+.2f}% ~ {pct_sign(high_pct)} {high_pct:+.2f}%), "
+            f"중심 {fmt(center)} {pct_sign(center_pct)} {center_pct:+.2f}%"
         )
 
     # 특이사항
