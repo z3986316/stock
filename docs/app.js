@@ -27,7 +27,7 @@ function renderComparison(tickers) {
   const minLen = Math.min(...valid.map((t) => t.history.length));
   const slice = (arr) => arr.slice(arr.length - minLen);
 
-  const labels = slice(valid[0].history).map((h) => h.date.slice(5));
+  const labels = slice(valid[0].history).map((h) => h.date);
   const datasets = valid.map((t, i) => {
     const hist = slice(t.history);
     const base = hist[0].close;
@@ -59,7 +59,16 @@ function renderComparison(tickers) {
         },
       },
       scales: {
-        x: { ticks: { color: "#8b93a7", maxTicksLimit: 8 }, grid: { display: false } },
+        x: {
+          ticks: {
+            color: "#8b93a7",
+            maxTicksLimit: 8,
+            callback: function (v) {
+              return this.getLabelForValue(v).slice(5);
+            },
+          },
+          grid: { display: false },
+        },
         y: { ticks: { color: "#8b93a7" }, grid: { color: "#262b3622" } },
       },
     },
@@ -160,7 +169,7 @@ function renderNewsItem(n) {
 }
 
 function drawPriceChart(t) {
-  const labels = t.history.map((h) => h.date.slice(5));
+  const labels = t.history.map((h) => h.date);
   const data = t.history.map((h) => h.close);
   const last = data[data.length - 1];
   const first = data[0];
@@ -180,6 +189,7 @@ function drawPriceChart(t) {
           fill: true,
           tension: 0.15,
           pointRadius: 0,
+          pointHoverRadius: 5,
           borderWidth: 2,
         },
       ],
@@ -187,6 +197,7 @@ function drawPriceChart(t) {
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      interaction: { mode: "index", intersect: false },
       plugins: {
         legend: { display: false },
         tooltip: {
@@ -196,7 +207,16 @@ function drawPriceChart(t) {
         },
       },
       scales: {
-        x: { ticks: { color: "#8b93a7", maxTicksLimit: 8 }, grid: { display: false } },
+        x: {
+          ticks: {
+            color: "#8b93a7",
+            maxTicksLimit: 8,
+            callback: function (v) {
+              return this.getLabelForValue(v).slice(5);
+            },
+          },
+          grid: { display: false },
+        },
         y: {
           ticks: { color: "#8b93a7", callback: (v) => v.toLocaleString("ko-KR") },
           grid: { color: "#262b3622" },

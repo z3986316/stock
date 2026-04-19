@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19 20:12 KST",
+  "generated_at": "2026-04-19 21:37 KST",
   "tickers": [
     {
       "ticker": "360750",
@@ -7,6 +7,294 @@
       "latest_date": "2026-04-17",
       "latest_price": 25940,
       "history": [
+        {
+          "date": "2025-04-07",
+          "close": 17587
+        },
+        {
+          "date": "2025-04-08",
+          "close": 18596
+        },
+        {
+          "date": "2025-04-09",
+          "close": 17924
+        },
+        {
+          "date": "2025-04-10",
+          "close": 19486
+        },
+        {
+          "date": "2025-04-11",
+          "close": 19051
+        },
+        {
+          "date": "2025-04-14",
+          "close": 19011
+        },
+        {
+          "date": "2025-04-15",
+          "close": 18972
+        },
+        {
+          "date": "2025-04-16",
+          "close": 18720
+        },
+        {
+          "date": "2025-04-17",
+          "close": 18616
+        },
+        {
+          "date": "2025-04-18",
+          "close": 18621
+        },
+        {
+          "date": "2025-04-21",
+          "close": 18334
+        },
+        {
+          "date": "2025-04-22",
+          "close": 18161
+        },
+        {
+          "date": "2025-04-23",
+          "close": 18817
+        },
+        {
+          "date": "2025-04-24",
+          "close": 18977
+        },
+        {
+          "date": "2025-04-25",
+          "close": 19496
+        },
+        {
+          "date": "2025-04-28",
+          "close": 19551
+        },
+        {
+          "date": "2025-04-29",
+          "close": 19585
+        },
+        {
+          "date": "2025-04-30",
+          "close": 19416
+        },
+        {
+          "date": "2025-05-02",
+          "close": 19516
+        },
+        {
+          "date": "2025-05-07",
+          "close": 19391
+        },
+        {
+          "date": "2025-05-08",
+          "close": 19501
+        },
+        {
+          "date": "2025-05-09",
+          "close": 19551
+        },
+        {
+          "date": "2025-05-12",
+          "close": 19863
+        },
+        {
+          "date": "2025-05-13",
+          "close": 20335
+        },
+        {
+          "date": "2025-05-14",
+          "close": 20607
+        },
+        {
+          "date": "2025-05-15",
+          "close": 20205
+        },
+        {
+          "date": "2025-05-16",
+          "close": 20255
+        },
+        {
+          "date": "2025-05-19",
+          "close": 20310
+        },
+        {
+          "date": "2025-05-20",
+          "close": 20389
+        },
+        {
+          "date": "2025-05-21",
+          "close": 20215
+        },
+        {
+          "date": "2025-05-22",
+          "close": 19903
+        },
+        {
+          "date": "2025-05-23",
+          "close": 19768
+        },
+        {
+          "date": "2025-05-26",
+          "close": 19749
+        },
+        {
+          "date": "2025-05-27",
+          "close": 19823
+        },
+        {
+          "date": "2025-05-28",
+          "close": 20086
+        },
+        {
+          "date": "2025-05-29",
+          "close": 20300
+        },
+        {
+          "date": "2025-05-30",
+          "close": 20081
+        },
+        {
+          "date": "2025-06-02",
+          "close": 19893
+        },
+        {
+          "date": "2025-06-04",
+          "close": 20160
+        },
+        {
+          "date": "2025-06-05",
+          "close": 19992
+        },
+        {
+          "date": "2025-06-09",
+          "close": 20031
+        },
+        {
+          "date": "2025-06-10",
+          "close": 20220
+        },
+        {
+          "date": "2025-06-11",
+          "close": 20414
+        },
+        {
+          "date": "2025-06-12",
+          "close": 20131
+        },
+        {
+          "date": "2025-06-13",
+          "close": 20106
+        },
+        {
+          "date": "2025-06-16",
+          "close": 20160
+        },
+        {
+          "date": "2025-06-17",
+          "close": 20210
+        },
+        {
+          "date": "2025-06-18",
+          "close": 20270
+        },
+        {
+          "date": "2025-06-19",
+          "close": 20295
+        },
+        {
+          "date": "2025-06-20",
+          "close": 20136
+        },
+        {
+          "date": "2025-06-23",
+          "close": 20330
+        },
+        {
+          "date": "2025-06-24",
+          "close": 20423
+        },
+        {
+          "date": "2025-06-25",
+          "close": 20498
+        },
+        {
+          "date": "2025-06-26",
+          "close": 20443
+        },
+        {
+          "date": "2025-06-27",
+          "close": 20617
+        },
+        {
+          "date": "2025-06-30",
+          "close": 20667
+        },
+        {
+          "date": "2025-07-01",
+          "close": 20727
+        },
+        {
+          "date": "2025-07-02",
+          "close": 20845
+        },
+        {
+          "date": "2025-07-03",
+          "close": 20914
+        },
+        {
+          "date": "2025-07-04",
+          "close": 21029
+        },
+        {
+          "date": "2025-07-07",
+          "close": 21094
+        },
+        {
+          "date": "2025-07-08",
+          "close": 21054
+        },
+        {
+          "date": "2025-07-09",
+          "close": 21104
+        },
+        {
+          "date": "2025-07-10",
+          "close": 21134
+        },
+        {
+          "date": "2025-07-11",
+          "close": 21267
+        },
+        {
+          "date": "2025-07-14",
+          "close": 21213
+        },
+        {
+          "date": "2025-07-15",
+          "close": 21421
+        },
+        {
+          "date": "2025-07-16",
+          "close": 21311
+        },
+        {
+          "date": "2025-07-17",
+          "close": 21551
+        },
+        {
+          "date": "2025-07-18",
+          "close": 21713
+        },
+        {
+          "date": "2025-07-21",
+          "close": 21635
+        },
+        {
+          "date": "2025-07-22",
+          "close": 21595
+        },
         {
           "date": "2025-07-23",
           "close": 21551
@@ -906,10 +1194,28 @@
       "realtime": null,
       "news": [
         {
-          "at": "04-19 19:59",
+          "at": "04-19 21:08",
+          "kw": "트럼프",
+          "title": "\"트럼프 허세 뒤 두려움 있다⋯美장교 실종에 몇시간 고함쳐\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51OVQ2eGNtT0J0ZHlTaHRpZGRUZnBKakVtSXVNRG80R3FpSzYzVF9SczBESkJocV9QVlBQTkZ6aEZJOXJFMGN3VVFmSW5ncTQ?oc=5"
+        },
+        {
+          "at": "04-19 21:00",
           "kw": "전쟁",
-          "title": "젤렌스키, 美 러시아산 원유 제재 완화 연장에 \"전쟁 부추겨\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfdHV6S1UySUpRVDYybU5BVVZzcmZRX19vdlpiQ3ZJSS1VTlh1aEZyRjQtMVRvMm9MMFRaS0gzb3BHaHpUZ21MNFktMzFfUnc?oc=5"
+          "title": "휴전이 이란에 준 선물?…IRGC “무기고 더 두둑해져” [美-이란 전쟁] - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbjVycjFfNUJBX1F0dmpvdGNVSXJzYUdFVHFMTFJoenphMFhjcl9QMW8zR1Foc1NlUExSSjJUZ0I0TU15clc5cGxTMzgtZFdPOFHSAVNBVV95cUxQaHVjemcwOEJXZlNPSzRhWmlIUTJKRXNVSVhraXFxbmpfZ3BORGVaTm83bUQyck16ZnlqMW5KNHBQN2owaUZ1MHp5aXFIZFZkUUpBYw?oc=5"
+        },
+        {
+          "at": "04-19 19:40",
+          "kw": "넷플릭스",
+          "title": "“당장 내려라” “너무 불쾌하다” 완전 망했는데…하루만에 1위, 넷플릭스 무슨 일이 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HaC1WM0FXdjd0ajNCakFBeTUzQzdMTWJoVXZFMk50NUtQcWFlWElYR2djak9KQ0EzbEZEZy1PQ1czczZ2cUpmeHhvVk9IX1BqN3BIeFJR?oc=5"
+        },
+        {
+          "at": "04-19 19:03",
+          "kw": "메타",
+          "title": "‘AI 올인’ 메타, 내달 전체 인력 10% 줄인다…\"하반기 추가 감원\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBheGxFc0xtSE1HX1k1Q0JjN1hXLWsyZWVQZXF0RWJOWUdyMDZZOHZVTDJTdms2N3VlQy10TUNGQ0V4WVNUZk1wTzdxNklzUnc?oc=5"
         },
         {
           "at": "04-19 18:58",
@@ -918,16 +1224,10 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1dCeXE1bTNiVkhWSlBxRW9FVDEyMTB5aVFXa3lnZDhSaGdlWkxNWEZlaUlNYzlUZXBEWXlhU29URUJoc1Jqc3RWNTE1Yk9OalU0bU1MT25NelhnYlo2MFk4QWRQT1ZDcjc4ajM0bzc1SURHSkZmRDUtcHJjeWhSYy1xSWt2VDdObGZTQ2ZYVWFiVEZpT2k2R0JSeURqQQ?oc=5"
         },
         {
-          "at": "04-19 18:52",
-          "kw": "트럼프",
-          "title": "“美장교 실종에 몇시간 고함…트럼프, 허세 뒤에 두려움 있다” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JbE9aM0VQOVRWQzZ0RFlsQzhseV9tcVJQcUZkSEdDMldBcWlNWGU1NHRMb01lZGFkWXgtdlM3LWlna3pwb0hRV1M5SU9qOTRFYTBFbUN3?oc=5"
-        },
-        {
-          "at": "04-19 18:41",
+          "at": "04-19 18:10",
           "kw": "애플",
-          "title": "중국 스마트폰 시장 덮친 ‘메모리플레이션’…애플은 ‘열외’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6LUljWWF4d0xGLWtSR2tKRndSdG5XaTAtSTRjUmxTclBmbWlJOUVsemt0VFgzZ3h6RTBfUWg0cndlcWV2LVJYUjBtMWRLeXVTLUZDaGFUQzZyeTIwOVl5YVZ5T2tzeExESnc?oc=5"
+          "title": "삼성디스플레이, 애플 폴더블폰 패널까지 '접수' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTGZzR3JoZHdhNTVnc05oVEdJbzRTeVhULTU0N25oSmJHMGZsdWg3OTBVWTNmbjhHd2ctMXR3bGRBekZaMGlpR09jbEhoOWs?oc=5"
         },
         {
           "at": "04-19 18:03",
@@ -940,18 +1240,6 @@
           "kw": "유가",
           "title": "급등락 반복하는 국제 유가 \"해협 열려도 정상화에 수개월\" - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hRzZGMXV3cnBOZDNmOEdha05wVkRYNDNxRXkzeFlvZUE5V3JHZ0kybmQwS3paTkJlRmduSDdvTW5qNDNTdTBvMmxidEZXTTFhbWh3c0VjNkZBZ9IBVEFVX3lxTE1aLUM3bnlyN21GTWNrbjJYSFlSdWJsZnBnT3VURUZZdS1KZklxZ3Z1cGx5aF9RMGRCUzhtckg2dDFib2hueDdkQXVkckNFNXFaNzMyaA?oc=5"
-        },
-        {
-          "at": "04-19 18:01",
-          "kw": "퀄컴",
-          "title": "삼성 파운드리, 잇따른 빅테크 수주…올해 흑자전환 기대감↑ - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuUlczU2N2VnFnczE5ZTdpbUpKWGFxVllSWkN4SGtFVWVpQTBiQ0ZMc1N0d3BuZWFqSXVIY3ZnY0RMdlQ3NGxYTnhRT3Q1cVZSZnNORFJJV2s3aml3Q1FFR1hnZU9abG8tNWxBWHJWMUk1ZEpSUldPMw?oc=5"
-        },
-        {
-          "at": "04-19 17:39",
-          "kw": "넷플릭스",
-          "title": "넷플릭스 고객센터 전화번호 채팅 메일 문의 방법 정리 - 네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHNmcHFLek54SXNUYTRDR2xFYUJQRWRlVktxcmtPZ3RYS0s5eUdBRXYxajZkUzZvNjZhTS1Vdi1hNjJJd0Z1NktfazZKblJ0bDdaU3RnNmp1U01wWUlnRmU1SDBQbFZYajk4b3U3T2tvenJfcWJVZ2VhWkxNU21lSGdn?oc=5"
         }
       ]
     },
@@ -961,6 +1249,294 @@
       "latest_date": "2026-04-17",
       "latest_price": 172915,
       "history": [
+        {
+          "date": "2025-04-07",
+          "close": 107142
+        },
+        {
+          "date": "2025-04-08",
+          "close": 114633
+        },
+        {
+          "date": "2025-04-09",
+          "close": 110494
+        },
+        {
+          "date": "2025-04-10",
+          "close": 122213
+        },
+        {
+          "date": "2025-04-11",
+          "close": 119443
+        },
+        {
+          "date": "2025-04-14",
+          "close": 119418
+        },
+        {
+          "date": "2025-04-15",
+          "close": 118316
+        },
+        {
+          "date": "2025-04-16",
+          "close": 116277
+        },
+        {
+          "date": "2025-04-17",
+          "close": 115924
+        },
+        {
+          "date": "2025-04-18",
+          "close": 115502
+        },
+        {
+          "date": "2025-04-21",
+          "close": 113666
+        },
+        {
+          "date": "2025-04-22",
+          "close": 112543
+        },
+        {
+          "date": "2025-04-23",
+          "close": 117081
+        },
+        {
+          "date": "2025-04-24",
+          "close": 118361
+        },
+        {
+          "date": "2025-04-25",
+          "close": 122691
+        },
+        {
+          "date": "2025-04-28",
+          "close": 123436
+        },
+        {
+          "date": "2025-04-29",
+          "close": 123506
+        },
+        {
+          "date": "2025-04-30",
+          "close": 122280
+        },
+        {
+          "date": "2025-05-02",
+          "close": 123251
+        },
+        {
+          "date": "2025-05-07",
+          "close": 122828
+        },
+        {
+          "date": "2025-05-08",
+          "close": 123873
+        },
+        {
+          "date": "2025-05-09",
+          "close": 124381
+        },
+        {
+          "date": "2025-05-12",
+          "close": 126966
+        },
+        {
+          "date": "2025-05-13",
+          "close": 130103
+        },
+        {
+          "date": "2025-05-14",
+          "close": 133311
+        },
+        {
+          "date": "2025-05-15",
+          "close": 131193
+        },
+        {
+          "date": "2025-05-16",
+          "close": 130900
+        },
+        {
+          "date": "2025-05-19",
+          "close": 130700
+        },
+        {
+          "date": "2025-05-20",
+          "close": 131263
+        },
+        {
+          "date": "2025-05-21",
+          "close": 130298
+        },
+        {
+          "date": "2025-05-22",
+          "close": 128853
+        },
+        {
+          "date": "2025-05-23",
+          "close": 127997
+        },
+        {
+          "date": "2025-05-26",
+          "close": 127783
+        },
+        {
+          "date": "2025-05-27",
+          "close": 128205
+        },
+        {
+          "date": "2025-05-28",
+          "close": 130273
+        },
+        {
+          "date": "2025-05-29",
+          "close": 132209
+        },
+        {
+          "date": "2025-05-30",
+          "close": 130058
+        },
+        {
+          "date": "2025-06-02",
+          "close": 128714
+        },
+        {
+          "date": "2025-06-04",
+          "close": 131133
+        },
+        {
+          "date": "2025-06-05",
+          "close": 130337
+        },
+        {
+          "date": "2025-06-09",
+          "close": 130188
+        },
+        {
+          "date": "2025-06-10",
+          "close": 131592
+        },
+        {
+          "date": "2025-06-11",
+          "close": 133001
+        },
+        {
+          "date": "2025-06-12",
+          "close": 131030
+        },
+        {
+          "date": "2025-06-13",
+          "close": 130396
+        },
+        {
+          "date": "2025-06-16",
+          "close": 130970
+        },
+        {
+          "date": "2025-06-17",
+          "close": 131831
+        },
+        {
+          "date": "2025-06-18",
+          "close": 131960
+        },
+        {
+          "date": "2025-06-19",
+          "close": 131970
+        },
+        {
+          "date": "2025-06-20",
+          "close": 131183
+        },
+        {
+          "date": "2025-06-23",
+          "close": 132094
+        },
+        {
+          "date": "2025-06-24",
+          "close": 133286
+        },
+        {
+          "date": "2025-06-25",
+          "close": 133828
+        },
+        {
+          "date": "2025-06-26",
+          "close": 133853
+        },
+        {
+          "date": "2025-06-27",
+          "close": 135067
+        },
+        {
+          "date": "2025-06-30",
+          "close": 135432
+        },
+        {
+          "date": "2025-07-01",
+          "close": 135729
+        },
+        {
+          "date": "2025-07-02",
+          "close": 135536
+        },
+        {
+          "date": "2025-07-03",
+          "close": 136337
+        },
+        {
+          "date": "2025-07-04",
+          "close": 137278
+        },
+        {
+          "date": "2025-07-07",
+          "close": 137583
+        },
+        {
+          "date": "2025-07-08",
+          "close": 137588
+        },
+        {
+          "date": "2025-07-09",
+          "close": 137865
+        },
+        {
+          "date": "2025-07-10",
+          "close": 138215
+        },
+        {
+          "date": "2025-07-11",
+          "close": 138667
+        },
+        {
+          "date": "2025-07-14",
+          "close": 138419
+        },
+        {
+          "date": "2025-07-15",
+          "close": 140171
+        },
+        {
+          "date": "2025-07-16",
+          "close": 139888
+        },
+        {
+          "date": "2025-07-17",
+          "close": 141466
+        },
+        {
+          "date": "2025-07-18",
+          "close": 142512
+        },
+        {
+          "date": "2025-07-21",
+          "close": 142089
+        },
+        {
+          "date": "2025-07-22",
+          "close": 142128
+        },
         {
           "date": "2025-07-23",
           "close": 141008
@@ -1860,10 +2436,34 @@
       "realtime": null,
       "news": [
         {
-          "at": "04-19 19:59",
+          "at": "04-19 21:23",
+          "kw": "빅테크",
+          "title": "[빅테크칼럼] “개발자 일자리 끝”이라던 앤트로픽 CEO, 정작 엔지니어 429명 뽑는 이유 - 뉴스스페이스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjeVJMeFp4enhib2JjOTNMakZCTnZfZnEtOVJwdVNLOTY3TXE3dGRsMUE5TGNVTVFmUkxEYkt1WG5SQUN1dWNtT1h0N19RVmhzUmt6RWJMQW90Y3pOQTJrag?oc=5"
+        },
+        {
+          "at": "04-19 21:08",
+          "kw": "트럼프",
+          "title": "\"트럼프 허세 뒤 두려움 있다⋯美장교 실종에 몇시간 고함쳐\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51OVQ2eGNtT0J0ZHlTaHRpZGRUZnBKakVtSXVNRG80R3FpSzYzVF9SczBESkJocV9QVlBQTkZ6aEZJOXJFMGN3VVFmSW5ncTQ?oc=5"
+        },
+        {
+          "at": "04-19 21:00",
           "kw": "전쟁",
-          "title": "젤렌스키, 美 러시아산 원유 제재 완화 연장에 \"전쟁 부추겨\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfdHV6S1UySUpRVDYybU5BVVZzcmZRX19vdlpiQ3ZJSS1VTlh1aEZyRjQtMVRvMm9MMFRaS0gzb3BHaHpUZ21MNFktMzFfUnc?oc=5"
+          "title": "휴전이 이란에 준 선물?…IRGC “무기고 더 두둑해져” [美-이란 전쟁] - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbjVycjFfNUJBX1F0dmpvdGNVSXJzYUdFVHFMTFJoenphMFhjcl9QMW8zR1Foc1NlUExSSjJUZ0I0TU15clc5cGxTMzgtZFdPOFHSAVNBVV95cUxQaHVjemcwOEJXZlNPSzRhWmlIUTJKRXNVSVhraXFxbmpfZ3BORGVaTm83bUQyck16ZnlqMW5KNHBQN2owaUZ1MHp5aXFIZFZkUUpBYw?oc=5"
+        },
+        {
+          "at": "04-19 19:40",
+          "kw": "넷플릭스",
+          "title": "“당장 내려라” “너무 불쾌하다” 완전 망했는데…하루만에 1위, 넷플릭스 무슨 일이 - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HaC1WM0FXdjd0ajNCakFBeTUzQzdMTWJoVXZFMk50NUtQcWFlWElYR2djak9KQ0EzbEZEZy1PQ1czczZ2cUpmeHhvVk9IX1BqN3BIeFJR?oc=5"
+        },
+        {
+          "at": "04-19 19:03",
+          "kw": "메타",
+          "title": "‘AI 올인’ 메타, 내달 전체 인력 10% 줄인다…\"하반기 추가 감원\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBheGxFc0xtSE1HX1k1Q0JjN1hXLWsyZWVQZXF0RWJOWUdyMDZZOHZVTDJTdms2N3VlQy10TUNGQ0V4WVNUZk1wTzdxNklzUnc?oc=5"
         },
         {
           "at": "04-19 18:58",
@@ -1872,40 +2472,16 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1dCeXE1bTNiVkhWSlBxRW9FVDEyMTB5aVFXa3lnZDhSaGdlWkxNWEZlaUlNYzlUZXBEWXlhU29URUJoc1Jqc3RWNTE1Yk9OalU0bU1MT25NelhnYlo2MFk4QWRQT1ZDcjc4ajM0bzc1SURHSkZmRDUtcHJjeWhSYy1xSWt2VDdObGZTQ2ZYVWFiVEZpT2k2R0JSeURqQQ?oc=5"
         },
         {
-          "at": "04-19 18:52",
-          "kw": "트럼프",
-          "title": "“美장교 실종에 몇시간 고함…트럼프, 허세 뒤에 두려움 있다” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JbE9aM0VQOVRWQzZ0RFlsQzhseV9tcVJQcUZkSEdDMldBcWlNWGU1NHRMb01lZGFkWXgtdlM3LWlna3pwb0hRV1M5SU9qOTRFYTBFbUN3?oc=5"
-        },
-        {
-          "at": "04-19 18:41",
+          "at": "04-19 18:10",
           "kw": "애플",
-          "title": "중국 스마트폰 시장 덮친 ‘메모리플레이션’…애플은 ‘열외’ - 한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6LUljWWF4d0xGLWtSR2tKRndSdG5XaTAtSTRjUmxTclBmbWlJOUVsemt0VFgzZ3h6RTBfUWg0cndlcWV2LVJYUjBtMWRLeXVTLUZDaGFUQzZyeTIwOVl5YVZ5T2tzeExESnc?oc=5"
+          "title": "삼성디스플레이, 애플 폴더블폰 패널까지 '접수' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTGZzR3JoZHdhNTVnc05oVEdJbzRTeVhULTU0N25oSmJHMGZsdWg3OTBVWTNmbjhHd2ctMXR3bGRBekZaMGlpR09jbEhoOWs?oc=5"
         },
         {
           "at": "04-19 18:03",
           "kw": "원달러 환율",
           "title": "환율·채권, 원·달러, 1400원대 후반 박스권 전망 - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11ZU55ZjQyVnVMZUtIYXRVWTFVcHlhZGVSVkJSZE1tYWlRTWlKZy1LMTRIZnVkczBBTUcxeVN4SU1ydDB2c2VMRV9rd2VTMHQ2ZGlreHk3THZ0UdIBVEFVX3lxTE0xQlA5RmhzNEdBdi1MVlpYemZuOGJZdW16Xy1aTDVMWXhzbklRcEFKN3N5MlRPME5TUWwyaDdHdE1aUmZnVHRxRG9tNXB3aWc2SXRpeQ?oc=5"
-        },
-        {
-          "at": "04-19 18:01",
-          "kw": "유가",
-          "title": "급등락 반복하는 국제 유가 \"해협 열려도 정상화에 수개월\" - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hRzZGMXV3cnBOZDNmOEdha05wVkRYNDNxRXkzeFlvZUE5V3JHZ0kybmQwS3paTkJlRmduSDdvTW5qNDNTdTBvMmxidEZXTTFhbWh3c0VjNkZBZ9IBVEFVX3lxTE1aLUM3bnlyN21GTWNrbjJYSFlSdWJsZnBnT3VURUZZdS1KZklxZ3Z1cGx5aF9RMGRCUzhtckg2dDFib2hueDdkQXVkckNFNXFaNzMyaA?oc=5"
-        },
-        {
-          "at": "04-19 18:01",
-          "kw": "나스닥",
-          "title": "AI 칩 세레브라스, 나스닥 상장 재도전 - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwdjFkQTBoVkVqOHhYV3k1Vmo2Mm1iRnVVOHFZVDdQc0xHd0VaV1B6aV9ZajdHZGtjSUl2QWRJSWFuYlo5M0RiV0FnUlNfS19QbFHSAVNBVV95cUxOckVCUWRtTDlGalBCZ1dmcUsyWGhQaWdGZzF2U0ZnUmpqNWxncFlzWEZGdE1WQTFXRWdfYmdRajhkUTU5dDRFWkNwRVUwT2RXZWN5aw?oc=5"
-        },
-        {
-          "at": "04-19 18:01",
-          "kw": "퀄컴",
-          "title": "삼성 파운드리, 잇따른 빅테크 수주…올해 흑자전환 기대감↑ - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuUlczU2N2VnFnczE5ZTdpbUpKWGFxVllSWkN4SGtFVWVpQTBiQ0ZMc1N0d3BuZWFqSXVIY3ZnY0RMdlQ3NGxYTnhRT3Q1cVZSZnNORFJJV2s3aml3Q1FFR1hnZU9abG8tNWxBWHJWMUk1ZEpSUldPMw?oc=5"
         }
       ]
     }

@@ -21,7 +21,7 @@ from price import (
 from realtime import get_realtime
 
 
-HISTORY_DAYS_FOR_CHART = 180
+HISTORY_DAYS_FOR_CHART = 252
 
 
 def iso(d) -> str:
