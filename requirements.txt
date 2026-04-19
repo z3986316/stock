@@ -1,0 +1,4 @@
+pykrx==1.0.51
+pandas==2.3.3
+requests==2.32.5
+feedparser==6.0.12

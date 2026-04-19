@@ -1,0 +1,34 @@
+name: Daily stock report
+
+on:
+  schedule:
+    # 07:00 UTC = 16:00 KST, weekdays (Mon-Fri)
+    - cron: "0 7 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      tickers:
+        description: "Tickers separated by space (default: 360750 133690)"
+        required: false
+        default: ""
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send report
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notify.py ${{ inputs.tickers }}
