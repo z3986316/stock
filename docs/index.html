@@ -12,12 +12,17 @@
   <p id="generated" class="muted"></p>
 </header>
 
-<section class="card">
-  <h2>종목 비교 (시작일 기준 정규화)</h2>
-  <div class="chart-wrap"><canvas id="comparison-chart"></canvas></div>
-</section>
+<nav id="tabs" class="tabs"></nav>
 
-<main id="tickers"></main>
+<div id="pane-overview" class="pane">
+  <section class="card">
+    <h2>종목 비교 (시작일 기준 정규화)</h2>
+    <div class="chart-wrap"><canvas id="comparison-chart"></canvas></div>
+  </section>
+  <div id="overview-minis"></div>
+</div>
+
+<div id="ticker-panes"></div>
 
 <footer class="site-footer muted">
   <p>데이터: pykrx · 뉴스: Google News RSS · 차트: Chart.js</p>
