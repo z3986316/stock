@@ -2,9 +2,12 @@ name: Daily stock report
 
 on:
   schedule:
-    # 07:17 UTC = 16:17 KST, weekdays (Mon-Fri)
-    # 정각을 피해 GitHub Actions 스케줄 누락 가능성을 줄임
+    # 07:17 / 07:32 / 07:47 UTC = 16:17 / 16:32 / 16:47 KST, weekdays.
+    # GitHub Actions 스케줄 트리거가 종종 누락돼서 같은 오후에 3번 시도.
+    # 그날 data.json 이 이미 오늘자면 뒤의 실행은 조기 종료 (아래 check 스텝).
     - cron: "17 7 * * 1-5"
+    - cron: "32 7 * * 1-5"
+    - cron: "47 7 * * 1-5"
   workflow_dispatch:
     inputs:
       tickers:
@@ -22,24 +25,42 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      - name: Skip if already ran today (schedule backups)
+        id: check
+        if: github.event_name == 'schedule'
+        run: |
+          today_kst=$(TZ=Asia/Seoul date +%Y-%m-%d)
+          gen=$(python3 -c "import json; print(json.load(open('docs/data.json'))['generated_at'][:10])" 2>/dev/null || echo "")
+          if [ "$gen" = "$today_kst" ]; then
+            echo "Already generated today ($gen). Skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v6
+        if: steps.check.outputs.skip != 'true'
         with:
           python-version: "3.11"
           cache: pip
 
       - name: Install dependencies
+        if: steps.check.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: Send report
+        if: steps.check.outputs.skip != 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python notify.py ${{ inputs.tickers }}
 
       - name: Build site data
+        if: steps.check.outputs.skip != 'true'
         run: python build_site.py ${{ inputs.tickers }}
 
       - name: Commit site data
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
