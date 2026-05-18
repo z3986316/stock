@@ -1,16 +1,12 @@
 {
-  "generated_at": "2026-05-15 22:16 KST",
+  "generated_at": "2026-05-19 02:20 KST",
   "tickers": [
     {
       "ticker": "360750",
       "name": "TIGER 미국S&P500",
-      "latest_date": "2026-05-15",
-      "latest_price": 27765,
+      "latest_date": "2026-05-18",
+      "latest_price": 27360,
       "history": [
-        {
-          "date": "2025-05-02",
-          "close": 19516
-        },
         {
           "date": "2025-05-07",
           "close": 19391
@@ -1014,75 +1010,71 @@
         {
           "date": "2026-05-15",
           "close": 27765
+        },
+        {
+          "date": "2026-05-18",
+          "close": 27360
         }
       ],
       "past": [
         {
           "label": "1년전",
-          "date": "2025-05-15",
-          "date_short": "5/15 목",
-          "close": 20205,
+          "date": "2025-05-16",
+          "date_short": "5/16 금",
+          "close": 20255,
           "prev": null
         },
         {
           "label": "6개월전",
-          "date": "2025-11-14",
-          "date_short": "11/14 금",
-          "close": 24296,
+          "date": "2025-11-17",
+          "date_short": "11/17 월",
+          "close": 24415,
           "prev": null
         },
         {
           "label": "1달전",
-          "date": "2026-04-15",
-          "date_short": "4/15 수",
-          "close": 25515,
+          "date": "2026-04-17",
+          "date_short": "4/17 금",
+          "close": 25940,
           "prev": null
         },
         {
           "label": "7일전",
-          "date": "2026-05-06",
-          "date_short": "5/6 수",
-          "close": 26285,
-          "prev": null
-        },
-        {
-          "label": "6일전",
           "date": "2026-05-07",
           "date_short": "5/7 목",
           "close": 26550,
           "prev": null
         },
         {
-          "label": "5일전",
+          "label": "6일전",
           "date": "2026-05-08",
           "date_short": "5/8 금",
           "close": 26820,
           "prev": null
         },
         {
-          "label": "4일전",
+          "label": "5일전",
           "date": "2026-05-11",
           "date_short": "5/11 월",
           "close": 26980,
           "prev": null
         },
         {
-          "label": "3일전",
+          "label": "4일전",
           "date": "2026-05-12",
           "date_short": "5/12 화",
           "close": 27280,
           "prev": null
         },
         {
-          "label": "2일전",
+          "label": "3일전",
           "date": "2026-05-13",
           "date_short": "5/13 수",
           "close": 27410,
-          "prev": 27280,
-          "change_pct": 0.47653958944281527
+          "prev": null
         },
         {
-          "label": "1일전",
+          "label": "2일전",
           "date": "2026-05-14",
           "date_short": "5/14 목",
           "close": 27595,
@@ -1090,169 +1082,172 @@
           "change_pct": 0.67493615468807
         },
         {
-          "label": "오늘",
+          "label": "1일전",
           "date": "2026-05-15",
           "date_short": "5/15 금",
           "close": 27765,
           "prev": 27595,
           "change_pct": 0.6160536329045116
+        },
+        {
+          "label": "오늘",
+          "date": "2026-05-18",
+          "date_short": "5/18 월",
+          "close": 27360,
+          "prev": 27765,
+          "change_pct": -1.4586709886547813
         }
       ],
       "forecast": [
         {
           "label": "1일후",
-          "date": "2026-05-18",
-          "date_short": "5/18 월",
+          "date": "2026-05-19",
+          "date_short": "5/19 화",
           "horizon_days": 1,
-          "low": 27383,
-          "high": 28220,
-          "center": 27798,
-          "low_pct": -1.3755497454873191,
-          "high_pct": 1.6379659308386978,
-          "center_pct": 0.11987072962018884
+          "low": 26975,
+          "high": 27812,
+          "center": 27390,
+          "low_pct": -1.4086524799263476,
+          "high_pct": 1.6533839790065417,
+          "center_pct": 0.11065930491977854
         },
         {
           "label": "2일후",
-          "date": "2026-05-19",
-          "date_short": "5/19 화",
+          "date": "2026-05-20",
+          "date_short": "5/20 수",
           "horizon_days": 2,
-          "low": 27246,
-          "high": 28430,
-          "center": 27832,
-          "low_pct": -1.870924710728205,
-          "high_pct": 2.396099678879009,
-          "center_pct": 0.23988514915855746
+          "low": 26834,
+          "high": 28020,
+          "center": 27421,
+          "low_pct": -1.9227868925392282,
+          "high_pct": 2.412547531007277,
+          "center_pct": 0.22144106465720148
         },
         {
           "label": "3일후",
-          "date": "2026-05-20",
-          "date_short": "5/20 수",
+          "date": "2026-05-21",
+          "date_short": "5/21 목",
           "horizon_days": 3,
-          "low": 27148,
-          "high": 28601,
-          "center": 27865,
-          "low_pct": -2.2221006986821457,
-          "high_pct": 3.0103774924095816,
-          "center_pct": 0.36004343085729257
+          "low": 26733,
+          "high": 28188,
+          "center": 27451,
+          "low_pct": -2.290336829824153,
+          "high_pct": 3.02542460806801,
+          "center_pct": 0.3323454147199188
         },
         {
           "label": "7일후",
-          "date": "2026-05-26",
-          "date_short": "5/26 화",
+          "date": "2026-05-27",
+          "date_short": "5/27 수",
           "horizon_days": 7,
-          "low": 26906,
-          "high": 29136,
-          "center": 27999,
-          "low_pct": -3.0941121788746733,
-          "high_pct": 4.938235629460406,
-          "center_pct": 0.8421186313303717
+          "low": 26479,
+          "high": 28711,
+          "center": 27573,
+          "low_pct": -3.2189247151627463,
+          "high_pct": 4.938308273181517,
+          "center_pct": 0.7771914336286654
         },
         {
           "label": "1달후",
-          "date": "2026-06-15",
-          "date_short": "6/15 월",
-          "horizon_days": 21,
-          "low": 26575,
-          "high": 30505,
-          "center": 28472,
-          "low_pct": -4.285967479022262,
-          "high_pct": 9.869248589587869,
-          "center_pct": 2.547690527672054
+          "date": "2026-06-17",
+          "date_short": "6/17 수",
+          "horizon_days": 22,
+          "low": 26093,
+          "high": 30119,
+          "center": 28034,
+          "low_pct": -4.629164291941858,
+          "high_pct": 10.082569892001244,
+          "center_pct": 2.4630015541750425
         },
         {
           "label": "6개월후",
-          "date": "2026-11-13",
-          "date_short": "11/13 금",
+          "date": "2026-11-16",
+          "date_short": "11/16 월",
           "horizon_days": 130,
-          "low": 27329,
-          "high": 38517,
-          "center": 32444,
-          "low_pct": -1.5721149188960972,
-          "high_pct": 38.72498836689072,
-          "center_pct": 16.85207406312392
+          "low": 26536,
+          "high": 37608,
+          "center": 31591,
+          "low_pct": -3.0122615961727073,
+          "high_pct": 37.456970806537285,
+          "center_pct": 15.462724402150501
         },
         {
           "label": "1년후",
-          "date": "2027-05-17",
-          "date_short": "5/17 월",
+          "date": "2027-05-18",
+          "date_short": "5/18 화",
           "horizon_days": 261,
-          "low": 29765,
-          "high": 48404,
-          "center": 37957,
-          "low_pct": 7.202746433758535,
-          "high_pct": 74.33329949802268,
-          "center_pct": 36.70774850405157
+          "low": 28522,
+          "high": 46750,
+          "center": 36516,
+          "low_pct": 4.247800015763478,
+          "high_pct": 70.8680830579833,
+          "center_pct": 33.46393427329161
         }
       ],
       "observations": [
-        "7거래일 연속 상승, 누적 🔴 +5.63%",
-        "추세: 강한 상승 추세 (정배열) (MA5 27,406원 / MA20 26,504원 / MA60 25,291원)",
-        "52주 최고 27,765원 대비 ⚪ +0.00%, 최저 19,391원 대비 🔴 +43.18%",
-        "연율 변동성 12.2% (낮음) - 장기 예상(1달 이상) 범위는 폭이 매우 넓어 참고용",
-        "최근 120일 평균 추세 연율 🔴 +30.2% - 미래 중심값은 이 추세 연장 가정"
+        "추세: 혼조 (MA5 27,482원 / MA20 26,582원 / MA60 25,339원)",
+        "52주 최고 27,765원 대비 🔵 -1.46%, 최저 19,391원 대비 🔴 +41.10%",
+        "연율 변동성 12.4% (낮음) - 장기 예상(1달 이상) 범위는 폭이 매우 넓어 참고용",
+        "최근 120일 평균 추세 연율 🔴 +27.9% - 미래 중심값은 이 추세 연장 가정"
       ],
       "realtime": null,
       "news": [
         {
-          "at": "05-15 13:01",
-          "kw": "트럼프",
-          "title": "다카이치 \"트럼프에게 中 방문 상세 설명 들었다\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95RGFSejB1cll0b09ldnFsWU4xRWVDTWRmbUxoRU1CdmppVTU1ODdiUTZjWHV6MDRwYW9fc2hiSGFLTWs0cEloQXpGVXRhTE0?oc=5"
-        },
-        {
-          "at": "05-15 12:40",
-          "kw": "반도체",
-          "title": "미 \"반도체 타협 없다\"...미·중 AI '각자도생' 가속화 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tUDZqWWM1d25aTVNoTnZnSlIzZnl0SHdTWWE3SzdoVWdjNWxkR3g4STdkZlpVME0ycFpBYW1iZzFRMDkwUWRnWC0ycWZ2NVNhU3ZDU2VhdF9LS1gzV2c?oc=5"
-        },
-        {
-          "at": "05-15 12:37",
-          "kw": "전쟁",
-          "title": "이란 외무 \"미국 신뢰 안해…전쟁·외교 모두 준비\" - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qclV2OU5GRVkwN0xLOTdFQkxaUWhqS2NlNWc4QlBFRnF1ZVUtY2dJM0dldFIzUEVwNmZSa21ENGtIRndBWmZRMExQcXpkOVhMUjFqaDhxVFRTWnlwZnRKM2o4TGpnQS1DY2ZtVnlBeTRLSlU?oc=5"
-        },
-        {
-          "at": "05-15 11:57",
+          "at": "05-18 17:06",
           "kw": "엔비디아",
-          "title": "20일 실적 발표…\"반도체 랠리 시험대 오를 것\" - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tRWRqVHFuOUdjbHhrOF9vVXZQLWFQYjZmNnF1Tmk2ek9PQlV3WF8tbV85eEl5OVVDUGlHQmJWYldCOTdmX1VDTU92RVBvYkNsbzBvQktPcTN1Vjc1V2FHZ2pSVHdEd0RDRlJzcTJDU1RXdFU?oc=5"
+          "title": "델, 엔비디아와 데스크사이드 에이전트 AI 솔루션 출시 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNm1xN21XYWhsamVwVXVaVXhiOHdWbE9ELVZ1T2dfYURuYXlBeVYwaDUwMDVIdWhDS1VKYW91Q29yU0xlV1ppY2txMjlnRkI4VUM4YVJRa2VQX1FUTjQ4bVVxMzlSaEhmUHRzTGZzcWc?oc=5"
         },
         {
-          "at": "05-15 11:54",
-          "kw": "트럼프",
-          "title": "트럼프 \"시진핑과 北문제 논의, 대만 문제 어떤 약속도 하지 않았다\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdsd2ZmcmRTN0RPdlNRZ2tMZG5QUjFEYWNEQ3VsMkFhdmF3SnpWbGlhQ2NmNmJNVHFuMHNxckJ5VXdwTGRITFkzRVZHU2RfZVZCWnV1VUo0ZUF0Zkxzam1LQ25uSDEtNno4RG9UblFkQzFoLU9fS1YyWU9pMW85X0w0SW8?oc=5"
+          "at": "05-18 16:34",
+          "kw": "해협",
+          "title": "이란 '페르시아만 해협청' 엑스 계정 개설 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ZlVjN2syejJmZ05tTGpCMjlwUlNEa0RvVHcwV1lIc3dqb2x5bzRvOEJwR3BuMVNGY2ZVSUFic21KeFVuWnpqQ2Y2NE1IZGM?oc=5"
         },
         {
-          "at": "05-15 11:33",
-          "kw": "JP모건",
-          "title": "JP모건, 강력한 실행력에 팀켄 주식 등급 상향 조정 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRRXkzTzNSbl8xbjlIMVFCbjJkRzFPeFp4VlZKX2NtcnFHcTdhaHFYUjJ3bUNYUlcwQXcyX0luYmtvMkg2VTN4ak54RlRRVGxZakFBT3hOWmVpSXNDZUxiWjBBR3IxZzlpX2VkOGJTVVFvTGUx?oc=5"
+          "at": "05-18 15:51",
+          "kw": "테슬라",
+          "title": "더뉴그랜저도 17인치 디스플레이…현대차, 테슬라·중국 쫓는다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PVzdXS1NacjM5LUV6aEdNWHFvUnNlYkZRVzhrb0lHM1BqYU9odElUbGFmVGtISXdhZVdwY3Z6TVlxcVo2YjJkUk9ocmpyOUpOQldwRWprZ1lGTVNueDdNOWJ3?oc=5"
         },
         {
-          "at": "05-15 11:03",
-          "kw": "메타",
-          "title": "울프 리서치, 아마존, 도어대시, 메타, 츄이 ’최선호주’ 선정 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KMTdLVmVtMlhmQVZHV0RRZ0V5THA2ZmNlS0ZpdkJqR094dXhzeWs5Yk9zVjhqbktUem9QaHhKR2syYTdJQnVjdExjZ2hWaWxCbjNPeGlvVmx6aEtSWnNjMU9uY3l3eUpNc0lkb3hSbHN0d1AxVnJV?oc=5"
+          "at": "05-18 15:48",
+          "kw": "전쟁",
+          "title": "아파트 ‘오토바이 주차 전쟁’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3FBQzNob2ZDcWtxOTNvbDVfdENucjQwVTNxS0xiOGk5OHdxRjl4TVVoSFdiLUFyVkxKcGdhVGZkeU81T3hHNG16cnFkR016ZUQ5Z3FGNDlhN1RUQmQyZmpHVTJDc1ktVGtMNzRvOTBIQXdTTkhJNXU2RzZvUEIzMXRQc0I3LUY2X2s4M05HdW8?oc=5"
         },
         {
-          "at": "05-15 10:48",
+          "at": "05-18 15:31",
           "kw": "국채가",
-          "title": "3년물 국고채 11.2bp 오른 연 3.766%...美·日 국채 급등·유가 상승에 고공행진 - 베타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rVVEtcERYcGVpRUJJUkQ0dXpIWDBrQmxFQ1hQb0E5TlpXM1hIQU5fQWJRX2FHRk9SbFVKaHo1YWR1dnpkQmVvSGQ5SjJFTFRlNWIxNGYyVUU0eTQ1VVpzNzFhLTE?oc=5"
+          "title": "글로벌 국채 금리 일제히 급등… 증시 ‘새 뇌관’ 되나 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzNRY3hnd3JNWkxaU0hlSWlGbzhrRG43akhNVmRVOHh1aE9hS0FZLXQydEd4SVQ2aG9hdHJGNHpZV0V4Uks5X09KVVZwd1RQYzgyVGx6V0dMQjliZ1RwTm1IZVFCSVJVb3oxaVNYU0RpdkI1TU15TUptT1ZSQm9IMEkzcUVZTWp3TXVZejd3?oc=5"
+        },
+        {
+          "at": "05-18 15:12",
+          "kw": "브로드컴",
+          "title": "UBS, 앤트로픽 계약에 따라 브로드컴 목표주가 $490로 상향 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlX3Q2dGpYazRhV3ZFNTlHZTRPRjBzbUpjZ2dYSFBoTG93RFQxWWZhbm5RaFdRWFhTLTFGaFdnVzdBSlVBaWdiUzVqeTc4eUdyb2lzeWVNdzdwVC1MWXZnanpHdnRoWVM5eW9CZUVmaUlyMDZX?oc=5"
+        },
+        {
+          "at": "05-18 15:00",
+          "kw": "미국 금리",
+          "title": "美 인플레 우려에 주택대출금리 상승…주택거래 부진 가중 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TElDN24wNDRJVWQwZ1M2YTJGX0hmbG9PVXdiaDc1UTA0N0ZGRGhDcjhjN3ZjNUVNNGhPM3d6ZC1VRU9mQU1FY2J0QkJxSVBydkdtVTFYWjl0ZG1DUDZZeWxuY1VTamRZQ2wtUmRhemNRZmNL?oc=5"
+        },
+        {
+          "at": "05-18 14:47",
+          "kw": "메타",
+          "title": "메타, 이번 주부터 8천명 감원…AI 투자 확대 속 추가 구조조정 우려 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaYldfMFVzaGtGckMyTjh4NE53NjJoQjdiN1o4R0VXSGJ3aVk3LV9aT0huMUgyc3pOUjFLanhNZnRVNlVLVWxoc1AydjlMQUVVWFNPdEp0Y3FMZFdEMlpVS29fLVd4YTlyYjBMYWdiVkN0VDA?oc=5"
         }
       ]
     },
     {
       "ticker": "133690",
       "name": "TIGER 미국나스닥100",
-      "latest_date": "2026-05-15",
-      "latest_price": 194300,
+      "latest_date": "2026-05-18",
+      "latest_price": 192025,
       "history": [
-        {
-          "date": "2025-05-02",
-          "close": 123251
-        },
         {
           "date": "2025-05-07",
           "close": 122828
@@ -2256,75 +2251,71 @@
         {
           "date": "2026-05-15",
           "close": 194300
+        },
+        {
+          "date": "2026-05-18",
+          "close": 192025
         }
       ],
       "past": [
         {
           "label": "1년전",
-          "date": "2025-05-15",
-          "date_short": "5/15 목",
-          "close": 131193,
+          "date": "2025-05-16",
+          "date_short": "5/16 금",
+          "close": 130900,
           "prev": null
         },
         {
           "label": "6개월전",
-          "date": "2025-11-14",
-          "date_short": "11/14 금",
-          "close": 161110,
+          "date": "2025-11-17",
+          "date_short": "11/17 월",
+          "close": 162483,
           "prev": null
         },
         {
           "label": "1달전",
-          "date": "2026-04-15",
-          "date_short": "4/15 수",
-          "close": 168750,
+          "date": "2026-04-17",
+          "date_short": "4/17 금",
+          "close": 172915,
           "prev": null
         },
         {
           "label": "7일전",
-          "date": "2026-05-06",
-          "date_short": "5/6 수",
-          "close": 181835,
-          "prev": null
-        },
-        {
-          "label": "6일전",
           "date": "2026-05-07",
           "date_short": "5/7 목",
           "close": 184085,
           "prev": null
         },
         {
-          "label": "5일전",
+          "label": "6일전",
           "date": "2026-05-08",
           "date_short": "5/8 금",
           "close": 186940,
           "prev": null
         },
         {
-          "label": "4일전",
+          "label": "5일전",
           "date": "2026-05-11",
           "date_short": "5/11 월",
           "close": 190635,
           "prev": null
         },
         {
-          "label": "3일전",
+          "label": "4일전",
           "date": "2026-05-12",
           "date_short": "5/12 화",
           "close": 192205,
           "prev": null
         },
         {
-          "label": "2일전",
+          "label": "3일전",
           "date": "2026-05-13",
           "date_short": "5/13 수",
           "close": 192870,
-          "prev": 192205,
-          "change_pct": 0.34598475585962907
+          "prev": null
         },
         {
-          "label": "1일전",
+          "label": "2일전",
           "date": "2026-05-14",
           "date_short": "5/14 목",
           "close": 194920,
@@ -2332,155 +2323,164 @@
           "change_pct": 1.062892103489397
         },
         {
-          "label": "오늘",
+          "label": "1일전",
           "date": "2026-05-15",
           "date_short": "5/15 금",
           "close": 194300,
           "prev": 194920,
           "change_pct": -0.31807921198440386
+        },
+        {
+          "label": "오늘",
+          "date": "2026-05-18",
+          "date_short": "5/18 월",
+          "close": 192025,
+          "prev": 194300,
+          "change_pct": -1.170869788986104
         }
       ],
       "forecast": [
         {
           "label": "1일후",
-          "date": "2026-05-18",
-          "date_short": "5/18 월",
+          "date": "2026-05-19",
+          "date_short": "5/19 화",
           "horizon_days": 1,
-          "low": 190738,
-          "high": 198582,
-          "center": 194620,
-          "low_pct": -1.833275720790221,
-          "high_pct": 2.2035859786943606,
-          "center_pct": 0.1648203967690435
+          "low": 188477,
+          "high": 196266,
+          "center": 192332,
+          "low_pct": -1.847489925615682,
+          "high_pct": 2.2085970712714804,
+          "center_pct": 0.1600237306614334
         },
         {
           "label": "2일후",
-          "date": "2026-05-19",
-          "date_short": "5/19 화",
+          "date": "2026-05-20",
+          "date_short": "5/20 수",
           "horizon_days": 2,
-          "low": 189464,
-          "high": 200576,
-          "center": 194941,
-          "low_pct": -2.4887402191125543,
-          "high_pct": 3.2300408699306655,
-          "center_pct": 0.32991245116999424
+          "low": 187202,
+          "high": 198236,
+          "center": 192640,
+          "low_pct": -2.511442171249191,
+          "high_pct": 3.234302834678289,
+          "center_pct": 0.32030353726662564
         },
         {
           "label": "3일후",
-          "date": "2026-05-20",
-          "date_short": "5/20 수",
+          "date": "2026-05-21",
+          "date_short": "5/21 목",
           "horizon_days": 3,
-          "low": 188565,
-          "high": 202197,
-          "center": 195262,
-          "low_pct": -2.951547104356767,
-          "high_pct": 4.064519523780567,
-          "center_pct": 0.4952766109500503
+          "low": 186299,
+          "high": 199835,
+          "center": 192948,
+          "low_pct": -2.9817762723980366,
+          "high_pct": 4.067037974318576,
+          "center_pct": 0.4808398295978127
         },
         {
           "label": "7일후",
-          "date": "2026-05-26",
-          "date_short": "5/26 화",
+          "date": "2026-05-27",
+          "date_short": "5/27 수",
           "horizon_days": 7,
-          "low": 186349,
-          "high": 207316,
-          "center": 196553,
-          "low_pct": -4.092236117504905,
-          "high_pct": 6.698734260743028,
-          "center_pct": 1.1594632846597828
+          "low": 184058,
+          "high": 204872,
+          "center": 194186,
+          "low_pct": -4.14896254366915,
+          "high_pct": 6.690326649820295,
+          "center_pct": 1.1255580748017406
         },
         {
           "label": "1달후",
-          "date": "2026-06-15",
-          "date_short": "6/15 월",
-          "horizon_days": 21,
-          "low": 183396,
-          "high": 220594,
-          "center": 201137,
-          "low_pct": -5.611777366819018,
-          "high_pct": 13.532784791171878,
-          "center_pct": 3.518876380272566
+          "date": "2026-06-17",
+          "date_short": "6/17 수",
+          "horizon_days": 22,
+          "low": 180881,
+          "high": 218715,
+          "center": 198900,
+          "low_pct": -5.803590792417851,
+          "high_pct": 13.899043733273036,
+          "center_pct": 3.5803115068287656
         },
         {
           "label": "6개월후",
-          "date": "2026-11-13",
-          "date_short": "11/13 금",
+          "date": "2026-11-16",
+          "date_short": "11/16 월",
           "horizon_days": 130,
-          "low": 191282,
-          "high": 302849,
-          "center": 240686,
-          "low_pct": -1.553030022854135,
-          "high_pct": 55.866926645896086,
-          "center_pct": 23.873429951457027
+          "low": 187662,
+          "high": 297775,
+          "center": 236392,
+          "low_pct": -2.2720658419436703,
+          "high_pct": 55.0708472958762,
+          "center_pct": 23.104644731079883
         },
         {
           "label": "1년후",
-          "date": "2027-05-17",
-          "date_short": "5/17 월",
+          "date": "2027-05-18",
+          "date_short": "5/18 화",
           "horizon_days": 261,
-          "low": 215660,
-          "high": 413542,
-          "center": 298638,
-          "low_pct": 10.993142143266518,
-          "high_pct": 112.83690706795144,
-          "center_pct": 53.69917722462391
+          "low": 210158,
+          "high": 404256,
+          "center": 291475,
+          "low_pct": 9.442977312905326,
+          "high_pct": 110.52258541481183,
+          "center_pct": 51.79004756375642
         }
       ],
       "observations": [
-        "추세: 강한 상승 추세 (정배열) (MA5 192,986원 / MA20 181,504원 / MA60 167,908원)",
-        "52주 최고 194,920원 대비 🔵 -0.32%, 최저 122,828원 대비 🔴 +58.19%",
-        "연율 변동성 16.3% (중간) - 장기 예상(1달 이상) 범위는 폭이 매우 넓어 참고용",
-        "최근 120일 평균 추세 연율 🔴 +41.5% - 미래 중심값은 이 추세 연장 가정"
+        "2거래일 연속 하락, 누적 🔵 -1.49%",
+        "추세: 혼조 (MA5 193,264원 / MA20 182,505원 / MA60 168,480원)",
+        "52주 최고 194,920원 대비 🔵 -1.49%, 최저 122,828원 대비 🔴 +56.34%",
+        "연율 변동성 16.4% (중간) - 장기 예상(1달 이상) 범위는 폭이 매우 넓어 참고용",
+        "최근 120일 평균 추세 연율 🔴 +40.3% - 미래 중심값은 이 추세 연장 가정"
       ],
       "realtime": null,
       "news": [
         {
-          "at": "05-15 13:01",
-          "kw": "트럼프",
-          "title": "다카이치 \"트럼프에게 中 방문 상세 설명 들었다\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95RGFSejB1cll0b09ldnFsWU4xRWVDTWRmbUxoRU1CdmppVTU1ODdiUTZjWHV6MDRwYW9fc2hiSGFLTWs0cEloQXpGVXRhTE0?oc=5"
-        },
-        {
-          "at": "05-15 12:40",
-          "kw": "반도체",
-          "title": "미 \"반도체 타협 없다\"...미·중 AI '각자도생' 가속화 - YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tUDZqWWM1d25aTVNoTnZnSlIzZnl0SHdTWWE3SzdoVWdjNWxkR3g4STdkZlpVME0ycFpBYW1iZzFRMDkwUWRnWC0ycWZ2NVNhU3ZDU2VhdF9LS1gzV2c?oc=5"
-        },
-        {
-          "at": "05-15 12:37",
-          "kw": "전쟁",
-          "title": "이란 외무 \"미국 신뢰 안해…전쟁·외교 모두 준비\" - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qclV2OU5GRVkwN0xLOTdFQkxaUWhqS2NlNWc4QlBFRnF1ZVUtY2dJM0dldFIzUEVwNmZSa21ENGtIRndBWmZRMExQcXpkOVhMUjFqaDhxVFRTWnlwZnRKM2o4TGpnQS1DY2ZtVnlBeTRLSlU?oc=5"
-        },
-        {
-          "at": "05-15 11:57",
+          "at": "05-18 17:06",
           "kw": "엔비디아",
-          "title": "20일 실적 발표…\"반도체 랠리 시험대 오를 것\" - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tRWRqVHFuOUdjbHhrOF9vVXZQLWFQYjZmNnF1Tmk2ek9PQlV3WF8tbV85eEl5OVVDUGlHQmJWYldCOTdmX1VDTU92RVBvYkNsbzBvQktPcTN1Vjc1V2FHZ2pSVHdEd0RDRlJzcTJDU1RXdFU?oc=5"
+          "title": "델, 엔비디아와 데스크사이드 에이전트 AI 솔루션 출시 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNm1xN21XYWhsamVwVXVaVXhiOHdWbE9ELVZ1T2dfYURuYXlBeVYwaDUwMDVIdWhDS1VKYW91Q29yU0xlV1ppY2txMjlnRkI4VUM4YVJRa2VQX1FUTjQ4bVVxMzlSaEhmUHRzTGZzcWc?oc=5"
         },
         {
-          "at": "05-15 11:54",
-          "kw": "트럼프",
-          "title": "트럼프 \"시진핑과 北문제 논의, 대만 문제 어떤 약속도 하지 않았다\" - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdsd2ZmcmRTN0RPdlNRZ2tMZG5QUjFEYWNEQ3VsMkFhdmF3SnpWbGlhQ2NmNmJNVHFuMHNxckJ5VXdwTGRITFkzRVZHU2RfZVZCWnV1VUo0ZUF0Zkxzam1LQ25uSDEtNno4RG9UblFkQzFoLU9fS1YyWU9pMW85X0w0SW8?oc=5"
+          "at": "05-18 16:34",
+          "kw": "해협",
+          "title": "이란 '페르시아만 해협청' 엑스 계정 개설 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ZlVjN2syejJmZ05tTGpCMjlwUlNEa0RvVHcwV1lIc3dqb2x5bzRvOEJwR3BuMVNGY2ZVSUFic21KeFVuWnpqQ2Y2NE1IZGM?oc=5"
         },
         {
-          "at": "05-15 11:33",
-          "kw": "JP모건",
-          "title": "JP모건, 강력한 실행력에 팀켄 주식 등급 상향 조정 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRRXkzTzNSbl8xbjlIMVFCbjJkRzFPeFp4VlZKX2NtcnFHcTdhaHFYUjJ3bUNYUlcwQXcyX0luYmtvMkg2VTN4ak54RlRRVGxZakFBT3hOWmVpSXNDZUxiWjBBR3IxZzlpX2VkOGJTVVFvTGUx?oc=5"
+          "at": "05-18 15:51",
+          "kw": "테슬라",
+          "title": "더뉴그랜저도 17인치 디스플레이…현대차, 테슬라·중국 쫓는다 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PVzdXS1NacjM5LUV6aEdNWHFvUnNlYkZRVzhrb0lHM1BqYU9odElUbGFmVGtISXdhZVdwY3Z6TVlxcVo2YjJkUk9ocmpyOUpOQldwRWprZ1lGTVNueDdNOWJ3?oc=5"
         },
         {
-          "at": "05-15 11:13",
+          "at": "05-18 15:48",
+          "kw": "전쟁",
+          "title": "아파트 ‘오토바이 주차 전쟁’ - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3FBQzNob2ZDcWtxOTNvbDVfdENucjQwVTNxS0xiOGk5OHdxRjl4TVVoSFdiLUFyVkxKcGdhVGZkeU81T3hHNG16cnFkR016ZUQ5Z3FGNDlhN1RUQmQyZmpHVTJDc1ktVGtMNzRvOTBIQXdTTkhJNXU2RzZvUEIzMXRQc0I3LUY2X2s4M05HdW8?oc=5"
+        },
+        {
+          "at": "05-18 15:31",
+          "kw": "국채가",
+          "title": "글로벌 국채 금리 일제히 급등… 증시 ‘새 뇌관’ 되나 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzNRY3hnd3JNWkxaU0hlSWlGbzhrRG43akhNVmRVOHh1aE9hS0FZLXQydEd4SVQ2aG9hdHJGNHpZV0V4Uks5X09KVVZwd1RQYzgyVGx6V0dMQjliZ1RwTm1IZVFCSVJVb3oxaVNYU0RpdkI1TU15TUptT1ZSQm9IMEkzcUVZTWp3TXVZejd3?oc=5"
+        },
+        {
+          "at": "05-18 15:12",
+          "kw": "브로드컴",
+          "title": "UBS, 앤트로픽 계약에 따라 브로드컴 목표주가 $490로 상향 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlX3Q2dGpYazRhV3ZFNTlHZTRPRjBzbUpjZ2dYSFBoTG93RFQxWWZhbm5RaFdRWFhTLTFGaFdnVzdBSlVBaWdiUzVqeTc4eUdyb2lzeWVNdzdwVC1MWXZnanpHdnRoWVM5eW9CZUVmaUlyMDZX?oc=5"
+        },
+        {
+          "at": "05-18 15:08",
           "kw": "나스닥",
-          "title": "Fervo Energy, 나스닥 IPO 완료...21.7억 달러 조달 및 정관 개정 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZUJ2TVEzSU9YRWZCYllmWkVydFlCTzJGc2dWVFI3b3dSdHJwR1prX2JMVG91Vlg5TEJxYzdrYTluN0dubGhGdEFMaXpNT3VSeG1QMVVwWHZuS08wcHktX1hlRV9haEtfZGpHTnpudw?oc=5"
+          "title": "TIGER 미국나스닥100레버리지(합성)(418660) - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbERGa1dHeHBCMG5jMlBwOEZabExGVU5QZ2U1Q01hYzhjdmMzRy1JdzA3Zm5HaUE0N3FhQ1JYSVdvTnV4VGwwOENzcUxpWnNrTjQxaV9ZR09OdFM3WlVEMURtUW5PRUVlR3dxZDI5ZXdvRndfRUUteG82UUZxQ2tSSUUzazhSQzB0VkkzWXY1MC1jSjd6eVdB?oc=5"
         },
         {
-          "at": "05-15 11:03",
-          "kw": "메타",
-          "title": "울프 리서치, 아마존, 도어대시, 메타, 츄이 ’최선호주’ 선정 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KMTdLVmVtMlhmQVZHV0RRZ0V5THA2ZmNlS0ZpdkJqR094dXhzeWs5Yk9zVjhqbktUem9QaHhKR2syYTdJQnVjdExjZ2hWaWxCbjNPeGlvVmx6aEtSWnNjMU9uY3l3eUpNc0lkb3hSbHN0d1AxVnJV?oc=5"
+          "at": "05-18 15:00",
+          "kw": "미국 금리",
+          "title": "美 인플레 우려에 주택대출금리 상승…주택거래 부진 가중 - 연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TElDN24wNDRJVWQwZ1M2YTJGX0hmbG9PVXdiaDc1UTA0N0ZGRGhDcjhjN3ZjNUVNNGhPM3d6ZC1VRU9mQU1FY2J0QkJxSVBydkdtVTFYWjl0ZG1DUDZZeWxuY1VTamRZQ2wtUmRhemNRZmNL?oc=5"
         }
       ]
     }
