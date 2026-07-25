@@ -48,13 +48,6 @@ jobs:
         if: steps.check.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
-      - name: Send report
-        if: steps.check.outputs.skip != 'true'
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python notify.py ${{ inputs.tickers }}
-
       - name: Build site data
         if: steps.check.outputs.skip != 'true'
         run: python build_site.py ${{ inputs.tickers }}
