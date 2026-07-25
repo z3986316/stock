@@ -1,5 +1,7 @@
+import re
 import sys
 import math
+import urllib.request
 from datetime import date, timedelta
 import pandas as pd
 from pykrx import stock
@@ -30,7 +32,48 @@ def fetch_history(ticker: str, days: int = 450) -> pd.DataFrame:
     today = date.today()
     start = (today - timedelta(days=days)).strftime("%Y%m%d")
     end = today.strftime("%Y%m%d")
-    return stock.get_market_ohlcv(start, end, ticker)
+    try:
+        df = stock.get_market_ohlcv(start, end, ticker)
+    except Exception:
+        df = pd.DataFrame()
+    if df.empty:
+        # KRX(data.krx.co.kr)는 일부 환경(해외/클라우드 IP)에서 로그인 없이는
+        # 빈 결과를 반환한다. 그 경우 네이버 일봉 API로 동일 형태를 구성한다.
+        df = fetch_history_naver(ticker, days)
+    return df
+
+
+def fetch_history_naver(ticker: str, days: int = 450) -> pd.DataFrame:
+    url = (
+        "https://fchart.stock.naver.com/sise.nhn"
+        f"?symbol={ticker}&timeframe=day&count={max(days, 500)}&requestType=0"
+    )
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            text = r.read().decode("utf-8", errors="ignore")
+    except Exception:
+        return pd.DataFrame()
+    rows = re.findall(
+        r'data="(\d{8})\|([\d.]+)\|([\d.]+)\|([\d.]+)\|([\d.]+)\|([\d.]+)"', text
+    )
+    if not rows:
+        return pd.DataFrame()
+    df = pd.DataFrame(
+        [
+            {
+                "시가": int(float(o)),
+                "고가": int(float(h)),
+                "저가": int(float(l)),
+                "종가": int(float(c)),
+                "거래량": int(float(v)),
+            }
+            for _, o, h, l, c, v in rows
+        ],
+        index=pd.to_datetime([d for d, *_ in rows], format="%Y%m%d"),
+    ).sort_index()
+    cutoff = pd.Timestamp(date.today() - timedelta(days=days))
+    return df[df.index >= cutoff]
 
 
 def price_on_or_before(df: pd.DataFrame, target: date):
