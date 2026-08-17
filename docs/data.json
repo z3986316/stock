@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 17:37 KST",
+  "generated_at": "2026-08-17 17:00 KST",
   "tickers": [
     {
       "ticker": "360750",
@@ -1194,52 +1194,52 @@
       "realtime": null,
       "news": [
         {
-          "at": "08-14 08:10",
+          "at": "08-17 07:45",
+          "kw": "전쟁",
+          "title": "홍해 무력 긴장 고조에 한국 유조선 수에즈운하 이용…중동전쟁 후 처음 - 브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONVFPUVdnckF2TmtWOWhMOVZud1FjdXVmSHlYeVNLeFRGbk40d2pOb3c4RFlSR1huR0h5cUlXaXZZbmdxYlBQOWNnN215dHFJWEhRaGh3dUROQQ?oc=5"
+        },
+        {
+          "at": "08-17 07:42",
+          "kw": "S&P 500",
+          "title": "[외부 독립 리서치] S&P 500, 이번 주 큰 변동성 전환점 맞을 수도 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0lPbjU1b2NwcDBNRW5RVE4zRWYySzRReE1jQjMwWU9BN3ByLUt6Z3JRc2JZdUdKcmdqb0REUTBGLXlsNmdsMHJWcWhaWEhsWW1PNFJNbHBTbmFyc1MzZVdVZjI2TXN0MWRVN3BlajJ1N2tJNVBSV3VKVDh4aWZpTjR2OUY?oc=5"
+        },
+        {
+          "at": "08-17 07:30",
+          "kw": "JP모건",
+          "title": "[국제] JP모건체이스, 내년 상반기 식품 인플레이션 위기 경고 - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYd1oySXZmZmRGSVNSSkR6R2labmFzNkZNMmFkSE9PeHh0OTdWVGJxNTRCWGtwU214T2VoMU0zUDNYa0RzamNySWJxNjcxS3VzZmI3ajlJcWowN3ZMRUNsdnplajVEZ0NlZ2JZ?oc=5"
+        },
+        {
+          "at": "08-17 07:30",
           "kw": "반도체",
-          "title": "명지대, 반도체연구센터 출범…“경기도 반도체 소부장 기업과 공동연구” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pTGdtNnBueVV3Q3p3TGw3emhPX2xmZFpXdDUzUEI3cERTV1pKWHhwMUZHbXl6NEdqODFldzlYYnZoQmNEZ3NhY2I0NTRWM3dPQzhJa0lR?oc=5"
+          "title": "\"확신의 매수 구간\"…비중확대 추천한 반도체 종목은 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11NnU2YVo2cVl1SFgzUkFsVWY1SFZONTJFdTRHbWtJRUNhMkJRSy1CWHdTR0ZNRmpVYlV0SlVKNkdKMTJOOFZsN25kbEswQUpmTmhDR2hTck5HUDJMR2NFZUdsVmlxQlBs0gFuQVVfeXFMUE1jeWYtSjVsM0hxeGNPQ2RudktRY3p2ZDVVbWFjdnFXWkE3TnBHQXRIenpMbmpYUXlickx0a3dRbzFTdlRldVJQaWhXaXhud1Z1V2xENWZCSU9kRFhnWXgwTW9LOWQwLTVybzJMZlE?oc=5"
         },
         {
-          "at": "08-14 08:06",
-          "kw": "트럼프",
-          "title": "\"트럼프, 에콰도르 어선도 극비리 타격…마약선 증거는 불분명\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Tnc0QURxSC1rdHJ2dmxOb0Q2UWZ3RDEyZWlHT0g2ajZjNUhpNjRyMlRuUnc0ZlZHTF9fcTZmZ0drMng3THExZ0k2eWVKNms?oc=5"
+          "at": "08-17 07:30",
+          "kw": "브로드컴",
+          "title": "브로드컴(AVGO), AI 매출 143% 폭증했는데...주가 400달러 왜 무너졌나 - 코인리더스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tdnhuMEpCVkxyTkJBbDRNdndHczVKRHpsUTRicUgzYnBkMjVZeEN3eU9RdTQzLXZmWVNJdURRUEszVFc5SnZSZjdB?oc=5"
         },
         {
-          "at": "08-14 07:56",
-          "kw": "엔비디아",
-          "title": "엔비디아도 난리났다....최태원 \"세계는 '반도체 전쟁' 중\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jNkhPUFVZMURPWlRZYmpXVDJMVTlYdmxGc1MyY0d1VC1pWmVGMUlGMjhaVUtFZFBGR2FqRG5pRUFFSW5GMUl3MWVrbHhsODQ?oc=5"
+          "at": "08-17 07:24",
+          "kw": "테슬라",
+          "title": "중고차 시세 내림세에도 '테슬라' 값 올라 [뉴시스Pic] - newsis.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EZ3ozWHZpU1dYT0tfZ1dxb2Myb3FtN19wd2t4SWVYVXVWWl90cUdxdFdBWTNhXzlHTGhqaGtwc1pWZURGZmpkWnJSQzBXUDBQWHU0WWZDSkhyTEJtNnE1b9IBeEFVX3lxTFBBRk9tSGJNWmo1TURmajBtcllMWmhkamRkSENkdXVadXpVaTU3cF9Ic2RzaTFfaElMNHBfUHJEUG1PQU03OG00dW1RSmJ0dVhDendRbk1WT2lqY0NrYzE3TVhqWUdScG9Gd0FwYVZNTkJiWjExZHBUNw?oc=5"
         },
         {
-          "at": "08-14 07:55",
-          "kw": "미국 고용",
-          "title": "“고용 쇼크가 호재?” 美 증시는 훨훨 - 한경매거진&북",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWkdNYjRjby05dXRCaUNkY3luWnRmb0l3NFgyajVmLTFnbnFPcTN5bFRQX0FreGpaUTlicnR3WFdxa1FXcXRjQnJPX2RDb0dNaVdJb0xnQ2lESWpwMHV6YmFxY0JHZWJ6NXBodQ?oc=5"
-        },
-        {
-          "at": "08-14 07:37",
-          "kw": "종전",
-          "title": "[OBS 뉴스 오늘] 종전은 요원 선거는 다가오고…AI 진영 전쟁 - OBS경인TV",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42MGduX3dLQzJxN0FicG1JMzREVjh1TjFfRXdiY3NWam85d2J0ZDN1RUpsZmxidFA3bTBrUHF6QU84R0gzcF9IVHJUdWFTYkxXOVZwdXhnM0JYeXlHa1FsajkzLWdCNVg5STg1Mk5n?oc=5"
-        },
-        {
-          "at": "08-14 07:30",
+          "at": "08-17 07:21",
           "kw": "연준",
-          "title": "제베원→투바투 연준..'KCON LA 2026' 개막 D-1, 관전 포인트 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xWTlHaGxISXI0Ujl6Y1RDTUQxMGJVSGxtLU1EX3pZT1Fpc2RvOU52MzFVa0g2bjEtLW9neEl5MWVDRmctdEU5TGJIQkhUTEE?oc=5"
+          "title": "영국 FTSE, 미국 소매 판매 부진에 연준 금리 인상 기대 약화로 주식 상승 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ma0JieGwwZXN3cUVkQUNtbm05NHFJa1hyTW5FeTVkRm5rM3g0ZjZLeEVjNXliVTZLbm9rWlNTUFhYUU8zV3pLNmRxbXZOcFE2RkpYcUpEUmQ0Rl9LLWFhV0JYSHZhal9IdDdNV2JVY0k?oc=5"
         },
         {
-          "at": "08-14 07:29",
-          "kw": "연준",
-          "title": "되살아난 외국인 매수세…美 연준 '금리인상 3표' 의사록 초점 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhbW1NVjFrdGdmVTN5MFE3eUxVakRVRld6N1c1dDFWRVFNOWZINjFwXzlyTHdISTlQbURJQUNSYUhhTXdpUXV4dnlKbm1VUGxqWmp1Vm1xemhvRHd6MmZBNVpJaGtiU3hq0gFuQVVfeXFMUFVDVHpMUk5oTTVRdFhkblVZQ1VLZXlnX2FCV0c0NERSM0FmZEZqdEhweHJOZTZnZHpTaFFYUzNxd1ItZzg2cVEtOVBRajBMaUFOWWI3MU95QzhXRUkzclJFejdlX3lpVVhJY2RLSkE?oc=5"
-        },
-        {
-          "at": "08-14 06:59",
-          "kw": "엔비디아",
-          "title": "[특징주] LG, 엔비디아와 휴머노이드 로봇 협력 소식에 상승(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kWEkyaFhZYmREQVFNS3JLM1poblRxSTRXR09jeFNPQzdFODYwU1I2d3U4RUlING5YX1pCNXRxNUNFeW5wMkVvbHNiamhCRWZnQUh6M0pkNmJDTUnSAWBBVV95cUxQSDhrbWFkN09iWkh1N1dleGtUVlVfXzRBcTYyTXNWVkNER2U4dnFTcl9zUFZaRmM5eGRTa3VRTnRSS2V2UnBFTmVJT243UVVueTZPbld3bXlybU9Sal9KT3M?oc=5"
+          "at": "08-17 06:57",
+          "kw": "전쟁",
+          "title": "참전용사가 재현한 라마디의 그날…전쟁은 비디오게임이 아니다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9teU5mYVJPRVJDQVVkT1k4a2VtYl81QzZxMy11WndRa2VUZkZiNk9NZ2Z4WUU2UWt0SmhvVjVSNjFSUlhvMzdTMV95SUF2Q1E?oc=5"
         }
       ]
     },
@@ -2436,52 +2436,52 @@
       "realtime": null,
       "news": [
         {
-          "at": "08-14 08:10",
+          "at": "08-17 07:45",
+          "kw": "전쟁",
+          "title": "홍해 무력 긴장 고조에 한국 유조선 수에즈운하 이용…중동전쟁 후 처음 - 브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONVFPUVdnckF2TmtWOWhMOVZud1FjdXVmSHlYeVNLeFRGbk40d2pOb3c4RFlSR1huR0h5cUlXaXZZbmdxYlBQOWNnN215dHFJWEhRaGh3dUROQQ?oc=5"
+        },
+        {
+          "at": "08-17 07:30",
+          "kw": "JP모건",
+          "title": "[국제] JP모건체이스, 내년 상반기 식품 인플레이션 위기 경고 - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYd1oySXZmZmRGSVNSSkR6R2labmFzNkZNMmFkSE9PeHh0OTdWVGJxNTRCWGtwU214T2VoMU0zUDNYa0RzamNySWJxNjcxS3VzZmI3ajlJcWowN3ZMRUNsdnplajVEZ0NlZ2JZ?oc=5"
+        },
+        {
+          "at": "08-17 07:30",
           "kw": "반도체",
-          "title": "명지대, 반도체연구센터 출범…“경기도 반도체 소부장 기업과 공동연구” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pTGdtNnBueVV3Q3p3TGw3emhPX2xmZFpXdDUzUEI3cERTV1pKWHhwMUZHbXl6NEdqODFldzlYYnZoQmNEZ3NhY2I0NTRWM3dPQzhJa0lR?oc=5"
+          "title": "\"확신의 매수 구간\"…비중확대 추천한 반도체 종목은 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11NnU2YVo2cVl1SFgzUkFsVWY1SFZONTJFdTRHbWtJRUNhMkJRSy1CWHdTR0ZNRmpVYlV0SlVKNkdKMTJOOFZsN25kbEswQUpmTmhDR2hTck5HUDJMR2NFZUdsVmlxQlBs0gFuQVVfeXFMUE1jeWYtSjVsM0hxeGNPQ2RudktRY3p2ZDVVbWFjdnFXWkE3TnBHQXRIenpMbmpYUXlickx0a3dRbzFTdlRldVJQaWhXaXhud1Z1V2xENWZCSU9kRFhnWXgwTW9LOWQwLTVybzJMZlE?oc=5"
         },
         {
-          "at": "08-14 08:06",
-          "kw": "트럼프",
-          "title": "\"트럼프, 에콰도르 어선도 극비리 타격…마약선 증거는 불분명\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Tnc0QURxSC1rdHJ2dmxOb0Q2UWZ3RDEyZWlHT0g2ajZjNUhpNjRyMlRuUnc0ZlZHTF9fcTZmZ0drMng3THExZ0k2eWVKNms?oc=5"
+          "at": "08-17 07:30",
+          "kw": "브로드컴",
+          "title": "브로드컴(AVGO), AI 매출 143% 폭증했는데...주가 400달러 왜 무너졌나 - 코인리더스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tdnhuMEpCVkxyTkJBbDRNdndHczVKRHpsUTRicUgzYnBkMjVZeEN3eU9RdTQzLXZmWVNJdURRUEszVFc5SnZSZjdB?oc=5"
         },
         {
-          "at": "08-14 07:56",
-          "kw": "엔비디아",
-          "title": "엔비디아도 난리났다....최태원 \"세계는 '반도체 전쟁' 중\" - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jNkhPUFVZMURPWlRZYmpXVDJMVTlYdmxGc1MyY0d1VC1pWmVGMUlGMjhaVUtFZFBGR2FqRG5pRUFFSW5GMUl3MWVrbHhsODQ?oc=5"
+          "at": "08-17 07:24",
+          "kw": "테슬라",
+          "title": "중고차 시세 내림세에도 '테슬라' 값 올라 [뉴시스Pic] - newsis.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EZ3ozWHZpU1dYT0tfZ1dxb2Myb3FtN19wd2t4SWVYVXVWWl90cUdxdFdBWTNhXzlHTGhqaGtwc1pWZURGZmpkWnJSQzBXUDBQWHU0WWZDSkhyTEJtNnE1b9IBeEFVX3lxTFBBRk9tSGJNWmo1TURmajBtcllMWmhkamRkSENkdXVadXpVaTU3cF9Ic2RzaTFfaElMNHBfUHJEUG1PQU03OG00dW1RSmJ0dVhDendRbk1WT2lqY0NrYzE3TVhqWUdScG9Gd0FwYVZNTkJiWjExZHBUNw?oc=5"
         },
         {
-          "at": "08-14 07:55",
-          "kw": "미국 고용",
-          "title": "“고용 쇼크가 호재?” 美 증시는 훨훨 - 한경매거진&북",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWkdNYjRjby05dXRCaUNkY3luWnRmb0l3NFgyajVmLTFnbnFPcTN5bFRQX0FreGpaUTlicnR3WFdxa1FXcXRjQnJPX2RDb0dNaVdJb0xnQ2lESWpwMHV6YmFxY0JHZWJ6NXBodQ?oc=5"
-        },
-        {
-          "at": "08-14 07:37",
-          "kw": "종전",
-          "title": "[OBS 뉴스 오늘] 종전은 요원 선거는 다가오고…AI 진영 전쟁 - OBS경인TV",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42MGduX3dLQzJxN0FicG1JMzREVjh1TjFfRXdiY3NWam85d2J0ZDN1RUpsZmxidFA3bTBrUHF6QU84R0gzcF9IVHJUdWFTYkxXOVZwdXhnM0JYeXlHa1FsajkzLWdCNVg5STg1Mk5n?oc=5"
-        },
-        {
-          "at": "08-14 07:30",
+          "at": "08-17 07:21",
           "kw": "연준",
-          "title": "제베원→투바투 연준..'KCON LA 2026' 개막 D-1, 관전 포인트 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xWTlHaGxISXI0Ujl6Y1RDTUQxMGJVSGxtLU1EX3pZT1Fpc2RvOU52MzFVa0g2bjEtLW9neEl5MWVDRmctdEU5TGJIQkhUTEE?oc=5"
+          "title": "영국 FTSE, 미국 소매 판매 부진에 연준 금리 인상 기대 약화로 주식 상승 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ma0JieGwwZXN3cUVkQUNtbm05NHFJa1hyTW5FeTVkRm5rM3g0ZjZLeEVjNXliVTZLbm9rWlNTUFhYUU8zV3pLNmRxbXZOcFE2RkpYcUpEUmQ0Rl9LLWFhV0JYSHZhal9IdDdNV2JVY0k?oc=5"
         },
         {
-          "at": "08-14 07:29",
-          "kw": "연준",
-          "title": "되살아난 외국인 매수세…美 연준 '금리인상 3표' 의사록 초점 - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhbW1NVjFrdGdmVTN5MFE3eUxVakRVRld6N1c1dDFWRVFNOWZINjFwXzlyTHdISTlQbURJQUNSYUhhTXdpUXV4dnlKbm1VUGxqWmp1Vm1xemhvRHd6MmZBNVpJaGtiU3hq0gFuQVVfeXFMUFVDVHpMUk5oTTVRdFhkblVZQ1VLZXlnX2FCV0c0NERSM0FmZEZqdEhweHJOZTZnZHpTaFFYUzNxd1ItZzg2cVEtOVBRajBMaUFOWWI3MU95QzhXRUkzclJFejdlX3lpVVhJY2RLSkE?oc=5"
+          "at": "08-17 06:57",
+          "kw": "전쟁",
+          "title": "참전용사가 재현한 라마디의 그날…전쟁은 비디오게임이 아니다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9teU5mYVJPRVJDQVVkT1k4a2VtYl81QzZxMy11WndRa2VUZkZiNk9NZ2Z4WUU2UWt0SmhvVjVSNjFSUlhvMzdTMV95SUF2Q1E?oc=5"
         },
         {
-          "at": "08-14 06:59",
-          "kw": "엔비디아",
-          "title": "[특징주] LG, 엔비디아와 휴머노이드 로봇 협력 소식에 상승(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kWEkyaFhZYmREQVFNS3JLM1poblRxSTRXR09jeFNPQzdFODYwU1I2d3U4RUlING5YX1pCNXRxNUNFeW5wMkVvbHNiamhCRWZnQUh6M0pkNmJDTUnSAWBBVV95cUxQSDhrbWFkN09iWkh1N1dleGtUVlVfXzRBcTYyTXNWVkNER2U4dnFTcl9zUFZaRmM5eGRTa3VRTnRSS2V2UnBFTmVJT243UVVueTZPbld3bXlybU9Sal9KT3M?oc=5"
+          "at": "08-17 06:45",
+          "kw": "JP모건",
+          "title": "JP모건이 제시한 2026년 하반기 주요 주식 투자 테마는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ1lfQU5NcGtWMm9wSXpNVVRSQ0t3eEh1Yzg2ZndlR1hvc3I3Y3FxNVhuMEM2QnI2T0tHYi1EMnFsR1ZldmFyM1RpLUJVRDZ6ZGVaQjFSdkZuS2NkWWVWNmN5NEdLUFpxd05EbkZLNHcyeE9rd0dNRHBPcEFlcWJmZ2xxYWJIZjV3bERGN3IyNmdXcnFHTnRJU2NYa2J4bXlvaFU1S1E2NmNhblRNV0U0Q1VibTh0cUwyVXJtTng3dE9LMHdkSHc3ejJLWGExUzBF?oc=5"
         }
       ]
     }
