@@ -1,16 +1,12 @@
 {
-  "generated_at": "2026-09-07 22:30 KST",
+  "generated_at": "2026-09-08 21:08 KST",
   "tickers": [
     {
       "ticker": "360750",
       "name": "TIGER 미국S&P500",
-      "latest_date": "2026-09-07",
+      "latest_date": "2026-09-08",
       "latest_price": 25660,
       "history": [
-        {
-          "date": "2025-08-26",
-          "close": 22071
-        },
         {
           "date": "2025-08-27",
           "close": 22200
@@ -1014,21 +1010,25 @@
         {
           "date": "2026-09-07",
           "close": 25660
+        },
+        {
+          "date": "2026-09-08",
+          "close": 25660
         }
       ],
       "past": [
         {
           "label": "1년전",
-          "date": "2025-09-05",
-          "date_short": "9/5 금",
-          "close": 22304,
+          "date": "2025-09-08",
+          "date_short": "9/8 월",
+          "close": 22200,
           "prev": null
         },
         {
           "label": "6개월전",
-          "date": "2026-03-09",
-          "date_short": "3/9 월",
-          "close": 24508,
+          "date": "2026-03-10",
+          "date_short": "3/10 화",
+          "close": 24632,
           "prev": null
         },
         {
@@ -1040,49 +1040,41 @@
         },
         {
           "label": "7일전",
-          "date": "2026-08-27",
-          "date_short": "8/27 목",
-          "close": 26365,
-          "prev": null
-        },
-        {
-          "label": "6일전",
           "date": "2026-08-28",
           "date_short": "8/28 금",
           "close": 26280,
           "prev": null
         },
         {
-          "label": "5일전",
+          "label": "6일전",
           "date": "2026-08-31",
           "date_short": "8/31 월",
           "close": 26130,
           "prev": null
         },
         {
-          "label": "4일전",
+          "label": "5일전",
           "date": "2026-09-01",
           "date_short": "9/1 화",
           "close": 26120,
           "prev": null
         },
         {
-          "label": "3일전",
+          "label": "4일전",
           "date": "2026-09-02",
           "date_short": "9/2 수",
           "close": 25860,
           "prev": null
         },
         {
-          "label": "2일전",
+          "label": "3일전",
           "date": "2026-09-03",
           "date_short": "9/3 목",
           "close": 25840,
-          "prev": 25860,
-          "change_pct": -0.07733952049497293
+          "prev": null
         },
         {
-          "label": "1일전",
+          "label": "2일전",
           "date": "2026-09-04",
           "date_short": "9/4 금",
           "close": 25980,
@@ -1090,168 +1082,172 @@
           "change_pct": 0.541795665634675
         },
         {
-          "label": "오늘",
+          "label": "1일전",
           "date": "2026-09-07",
           "date_short": "9/7 월",
           "close": 25660,
           "prev": 25980,
           "change_pct": -1.2317167051578137
+        },
+        {
+          "label": "오늘",
+          "date": "2026-09-08",
+          "date_short": "9/8 화",
+          "close": 25660,
+          "prev": 25660,
+          "change_pct": 0.0
         }
       ],
       "forecast": [
         {
           "label": "1일후",
-          "date": "2026-09-08",
-          "date_short": "9/8 화",
+          "date": "2026-09-09",
+          "date_short": "9/9 수",
           "horizon_days": 1,
-          "low": 25235,
+          "low": 25236,
           "high": 26110,
           "center": 25669,
-          "low_pct": -1.6573737000499695,
-          "high_pct": 1.7527769296116726,
-          "center_pct": 0.03317108125173253
+          "low_pct": -1.654082937896923,
+          "high_pct": 1.754232030660741,
+          "center_pct": 0.03555999745967725
         },
         {
           "label": "2일후",
-          "date": "2026-09-09",
-          "date_short": "9/9 수",
+          "date": "2026-09-10",
+          "date_short": "9/10 목",
           "horizon_days": 2,
-          "low": 25066,
-          "high": 26303,
-          "center": 25677,
-          "low_pct": -2.3168327166103815,
-          "high_pct": 2.507681869435514,
-          "center_pct": 0.06635316570977569
+          "low": 25067,
+          "high": 26304,
+          "center": 25678,
+          "low_pct": -2.3108434738007997,
+          "high_pct": 2.5111889995434185,
+          "center_pct": 0.0711326400535343
         },
         {
           "label": "3일후",
-          "date": "2026-09-10",
-          "date_short": "9/10 목",
+          "date": "2026-09-11",
+          "date_short": "9/11 금",
           "horizon_days": 3,
-          "low": 24938,
-          "high": 26455,
-          "center": 25686,
-          "low_pct": -2.8123539501393537,
-          "high_pct": 3.098691738263935,
-          "center_pct": 0.09954625702400335
+          "low": 24941,
+          "high": 26457,
+          "center": 25687,
+          "low_pct": -2.8037780132541266,
+          "high_pct": 3.104367333735134,
+          "center_pct": 0.10671793227818949
         },
         {
           "label": "7일후",
-          "date": "2026-09-16",
-          "date_short": "9/16 수",
+          "date": "2026-09-17",
+          "date_short": "9/17 목",
           "horizon_days": 7,
-          "low": 24586,
-          "high": 26906,
-          "center": 25720,
-          "low_pct": -4.187144521085276,
-          "high_pct": 4.855864337722249,
-          "center_pct": 0.23242876388293848
+          "low": 24590,
+          "high": 26910,
+          "center": 25724,
+          "low_pct": -4.168697349169554,
+          "high_pct": 4.870735897425053,
+          "center_pct": 0.2491856874730474
         },
         {
           "label": "1달후",
-          "date": "2026-10-07",
-          "date_short": "10/7 수",
+          "date": "2026-10-08",
+          "date_short": "10/8 목",
           "horizon_days": 22,
-          "low": 23862,
-          "high": 27999,
-          "center": 25848,
-          "low_pct": -7.0072174529491935,
-          "high_pct": 9.115979039281472,
-          "center_pct": 0.732311157882488
+          "low": 23876,
+          "high": 28013,
+          "center": 25861,
+          "low_pct": -6.954166823762688,
+          "high_pct": 9.168415702781333,
+          "center_pct": 0.78524790660148
         },
         {
           "label": "6개월후",
-          "date": "2027-03-08",
-          "date_short": "3/8 월",
+          "date": "2027-03-09",
+          "date_short": "3/9 화",
           "horizon_days": 130,
-          "low": 22059,
-          "high": 32537,
-          "center": 26791,
-          "low_pct": -14.034090255737791,
-          "high_pct": 26.80114385241233,
-          "center_pct": 4.405822097647822
+          "low": 22130,
+          "high": 32635,
+          "center": 26874,
+          "low_pct": -13.757371954726647,
+          "high_pct": 27.181519102182932,
+          "center_pct": 4.730456153701484
         },
         {
           "label": "1년후",
-          "date": "2027-09-07",
-          "date_short": "9/7 화",
+          "date": "2027-09-08",
+          "date_short": "9/8 수",
           "horizon_days": 261,
-          "low": 21245,
-          "high": 36850,
-          "center": 27980,
-          "low_pct": -17.204502571928774,
-          "high_pct": 43.60852527559201,
-          "center_pct": 9.041915267040219
+          "low": 21381,
+          "high": 37075,
+          "center": 28155,
+          "low_pct": -16.67393617413544,
+          "high_pct": 44.484057311003944,
+          "center_pct": 9.723688332632111
         }
       ],
       "observations": [
-        "추세: 강한 하락 추세 (역배열) (MA5 25,892원 / MA20 26,504원 / MA60 27,344원)",
+        "추세: 강한 하락 추세 (역배열) (MA5 25,800원 / MA20 26,423원 / MA60 27,308원)",
         "52주 최고 28,804원 대비 🔵 -10.92%, 최저 21,996원 대비 🔴 +16.66%",
         "연율 변동성 13.8% (낮음) - 장기 예상(1달 이상) 범위는 폭이 매우 넓어 참고용",
-        "최근 120일 평균 추세 연율 🔴 +8.4% - 미래 중심값은 이 추세 연장 가정"
+        "최근 120일 평균 추세 연율 🔴 +9.0% - 미래 중심값은 이 추세 연장 가정"
       ],
       "realtime": null,
       "news": [
         {
-          "at": "09-07 13:18",
-          "kw": "애플",
-          "title": "500만원짜리 中폴더블폰 등판…애플 나오기 전 '기선제압'? - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vQWpHbmtyZVZjNHJXNHFFUXJ1QTNXUTlsVUgyYVgxN2ZYaG9LOG9rU3ozdFVEeG90SWF5SUVtRTNXWDVOQTZ5dWFiS2ZZS3gzdzFmXzJNUDdXZw?oc=5"
+          "at": "09-08 11:41",
+          "kw": "엔비디아",
+          "title": "SK하이닉스 298만원에 물렸는데, 어떡해? ‘엔비디아도 같은 늪 건넜다’ [투자360] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4TE1Hb3pDQ3RnNDBRYi0ya1lfcFZYb01xZUdyNEpyckJYVUpQQTZ3RVQtaWk1WmJ2ZllyX1pzSHVfQ3RtOE9SeEtrTW9hUDA?oc=5"
         },
         {
-          "at": "09-07 13:03",
-          "kw": "환율",
-          "title": "달러 살 때? 팔 때? …전문가 \"3년 평균치 밑돌면 매수해야\" - newsis.com",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeGU5U2NlVjJ1TnZXcjYzcXpTMlNLRlhMSGF2c1VkWUQ3djVaQzh5UkltSWpyMDdKZ2gyZHdpajNKZENXWS1vWnJxMUtjYmdTemszSWJxRlBzVEVHM0owQ9IBeEFVX3lxTE5aTzRVRnRsQmpXSS11b1ZUcDJKanlVTEZuLUozUHRpZlliekdaRmJEci04MUo0VEFNS3Z5aDBsZ1djdzQ1RmstOG0xN3k1NUpWZmJaeUdtQTlMQ0tkUW5JMlRnZ2pMc00wenJRZUpQUy1jeUEyNjdpMA?oc=5"
+          "at": "09-08 11:26",
+          "kw": "S&P 500",
+          "title": "블룸에너지, S&P 500 편입 결정에 개장전 6% 강세 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GOVNoX3pRRE5rYkRLU1lxd0pUUkNPTzdvcVg0dWRyVjNXTDB4M3lPblJzTHRKUkRCc0JzbUUya0NCOFJ2MU83NDNBZ29UTzVnWEV2UV9CZXFPeFNBNjVEMGJMNDl5VUZDVWJZZ2tTZ3ExVTQ?oc=5"
         },
         {
-          "at": "09-07 13:01",
+          "at": "09-08 11:25",
           "kw": "트럼프",
-          "title": "트럼프 특사와 종전 논의했지만…러·우크라, 곡물수출항·정유시설 서로 타격 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hS3cyUTVfNnktZGtfTHRWN3pfR0JaaFBOMW9tRzN2RG9nSnF1bTlINGRVLWk1Ql9kNlhVNXZrajdQaUg5TTZxYV8wTkNteFk3U0pYcFEwSUtydDQ?oc=5"
+          "title": "트럼프 올린 美지도에 이웃나라들 포함…아이슬란드, 美대사 초치 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jMFViN2FQeW9fbWhWMjhvTUJJbWNJS0JpNEJ2ekR4S0V0cDJFb05pZ1dWNkUwZmY2NkVkTzMza1A5TVhndEZlSF84VzFCY0tBMEVCeDhnMDhSQkHSAWBBVV95cUxOY2J6dmFLWVN3ZU1TUWdCcnVNc3hUejM1V2tHbWdKdXlLOWNCc2xSNWRlR3h2V2c2VEZpeTdKX0U0aTZHTUVjNzZmYTk4N1NOS25TWXlvcE1DUEIwSWxMN3Q?oc=5"
         },
         {
-          "at": "09-07 13:00",
+          "at": "09-08 11:04",
           "kw": "애플",
-          "title": "애플 보란 듯…화웨이·샤오미, 폴더블폰 신제품 동시 출격 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FUnJuMTFpVnpka01FOEU2SElkVzItNlJxSVB0YkN1WTk2aDlpX3p0ZUZmZWVWdk9WRU9Md2p5TVE0bHNaNTJBMFhsczY5WDA?oc=5"
+          "title": "애플, 첫 폴더블폰 '울트라' 공개 임박…BofA, 목표주가 380달러 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BV3o0bUw4NmFjeFJDZl9VRFpuTVJGWEtteGtrSzhaSUlrTl9Od2pnUjVYZE5HZm1GWVRMeUI4cHVIRVhRUFNMS1Y4S1V5NEh0ZFIyTy1kNjVxdDhuWk5DLUxJYmdMX0FQbHRtUTRYSGozems?oc=5"
         },
         {
-          "at": "09-07 12:50",
+          "at": "09-08 10:56",
           "kw": "전쟁",
-          "title": "'연애전쟁' 이효리, 여친 비하 남친에 분노…\"인간이 하는 말 맞아?\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSM21SZDdJaXVva1VVWTViSDFweTF0ajRhOGY5UVdwdGRCdWN6aVFCOWVzZnV6b2lzcE5obVdKR1FaNFpWVEdfNUkzV2tZYThwZExjSzNVbzV6NFdqNkMwb01sb0prdnMxNWt3X2N2REdCaGfSAXhBVV95cUxPLWtuNWp4V29uNzMxZXBYUVZlU0k2akEwZjNrZFJRTXdzWEtMTVJQNnNBNG43U1d6d1IxVV9rMVhyLW1aQWhselE1amx0QjZpclZNc1NZMFZ4UWduTV9GV1pMeUp0emI2SUZuSm1qSXU0OHJUWk9FbV8?oc=5"
+          "title": "정점식 \"국가 안보\" 말하자…\"전쟁 일으키려던 놈들이 무슨!\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JUTMxNjgyRG5oQmw4UUN4WEI2dWdYQW9CT2ZPVS1HN2NsWFNtaG1OLWMzcWJOWHFJMUhCMTVKbk85a2wzbG96bnJOQTRGX3c?oc=5"
         },
         {
-          "at": "09-07 12:08",
-          "kw": "넷플릭스",
-          "title": "[SC인터뷰] \"죽을 때까지 연기하고파\"…설경구, '들쥐'→'가능한 사랑'으로 이어갈 글로벌 활약(종합) - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEptVmlrYmVNYVlNS1VWNVpILTdKczJJY2hKTHVuaGF0WjFqOFBXd2FwU2M2VHM1bjVXd0dMQU1kcHFPUTJYQ2dRV0l5TnVITDNrV1daZTZBUVNKUEFnbVZBaFh2dVFTSkpwU0VNTXM2WXNMVjlVOGlzTnhpSS1fOHJiZmVQeUQyWGR4QUNEMA?oc=5"
+          "at": "09-08 10:55",
+          "kw": "전쟁",
+          "title": "자화자찬부터 AI 전쟁까지…트럼프, SNS에 80개 글 ‘폭주’ - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZWFo3ejlxeW5MTm92V1V1cUh3N2ZRdjJ4UkJkS2pUbnhYQm91SkJtZVczSzNiTG84YW93em5Eb0xibW5BbEZKTHFZajB5Ry14UGkwLTVsbGc5Qm5taHfSAWNBVV95cUxNUlhTVUktVlZKV25wUHBCVlEybHlzLVg3ckNiYmhDWll0RGxSWFk2WHdFZWM4MXhEYUJlUW9FOWRCblRPSC0xb0JxYkUyODhnaFhfZWxrUkttbzBkc1hQX24yZzA?oc=5"
         },
         {
-          "at": "09-07 11:14",
-          "kw": "코스트코",
-          "title": "[인천시론] 코스트코가 영수증에 낙서 하는 이유 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CTndrYXRJM29oQVd6VzdnOHFKVUhReDkwZU5sdmNTZm5NTUNOX0ZKcmgzRXJUVFV4d1N0eVlocERaZXJjWDBwci1kVjU3VVZPRmJrSGxELXdIcFU?oc=5"
+          "at": "09-08 10:50",
+          "kw": "유가",
+          "title": "후티 반군, 사우디 석유 시설에 대규모 공습…국제유가, 2%대 급등 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbHQ1SjdpUDQ5ZW5aSUdmeUlzZHBrdW1EZXo4XzVkSldRZ1NyWGJhNkNjTGlLQVUxNzJmd2p4WjNFc0o4dE1xYnpjdHZteUxKZVFudkJXWUdEdEp2RzJONVlZTUo4dHM40gFuQVVfeXFMUGNtSHgyOTkzSTJ1NUoxNTdnVE44Zm5NQ00zS2lUanpOZFhZOXB3Szl0Ym5VUHMzVEdYbDJpREhUby1nU0JNc2NWQXB4SVNuT2txQU5TX2Q4NHBvWkVYbGgyNUN4TWhOS0stWmg2YVE?oc=5"
         },
         {
-          "at": "09-07 11:13",
-          "kw": "반도체",
-          "title": "코스피 7천 선 근접‥아스트라로 메모리 반도체 상승 시동 걸렸나 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQlZieXFLR2g2WFUteUh1d3F6czNPbXNVcXluY0VreW1IV0tLRnhQNkxPbFJ6eXROZnI5dHBwbEZ3X085QlV5QTNWRXh2ZnVWcjJ5QjlmeF9fTDZsaGszVjFPLXJ4NEJaYTZCRWdYcjQ5R3M5MjJPRdIBeEFVX3lxTE55ZDZwS1RZaVhpcUU3WjB4MDNUaVNRbTJNZC1teU1HdXpDWllLQW1GOUd3QWxwdS0xQ2lFeHItYUVuX1dheHBKeEFFWTR1ZWJ1UmlWT2h0YTdSLWxPSWFZWmdGTDZFdXFVWHZVYTRmSDBSWHU0dkJZWg?oc=5"
+          "at": "09-08 10:39",
+          "kw": "AMD",
+          "title": "\"반도체 반등할 것\"…시티, AMD·마벨·루멘텀 '주목' - edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQm9uUk8wbFRpUHNENzlYeno0RWxmV1ZBekV0d0pQWEdOQURncTBsUXhLM2I1aXdSTVdRNlo3a1F5X2ZoWDlzdXptSzlzUEppcThqeG1lSnBuNmdnbWVmWUNaT0puSE53NlpTRlVGb1laLTF3OHFTbTQwUnBsUV9FcQ?oc=5"
         }
       ]
     },
     {
       "ticker": "133690",
       "name": "TIGER 미국나스닥100",
-      "latest_date": "2026-09-07",
-      "latest_price": 175920,
+      "latest_date": "2026-09-08",
+      "latest_price": 176020,
       "history": [
-        {
-          "date": "2025-08-26",
-          "close": 144096
-        },
         {
           "date": "2025-08-27",
           "close": 145065
@@ -2255,21 +2251,25 @@
         {
           "date": "2026-09-07",
           "close": 175920
+        },
+        {
+          "date": "2026-09-08",
+          "close": 176020
         }
       ],
       "past": [
         {
           "label": "1년전",
-          "date": "2025-09-05",
-          "date_short": "9/5 금",
-          "close": 145741,
+          "date": "2025-09-08",
+          "date_short": "9/8 월",
+          "close": 145628,
           "prev": null
         },
         {
           "label": "6개월전",
-          "date": "2026-03-09",
-          "date_short": "3/9 월",
-          "close": 160226,
+          "date": "2026-03-10",
+          "date_short": "3/10 화",
+          "close": 161921,
           "prev": null
         },
         {
@@ -2281,49 +2281,41 @@
         },
         {
           "label": "7일전",
-          "date": "2026-08-27",
-          "date_short": "8/27 목",
-          "close": 179590,
-          "prev": null
-        },
-        {
-          "label": "6일전",
           "date": "2026-08-28",
           "date_short": "8/28 금",
           "close": 179490,
           "prev": null
         },
         {
-          "label": "5일전",
+          "label": "6일전",
           "date": "2026-08-31",
           "date_short": "8/31 월",
           "close": 178540,
           "prev": null
         },
         {
-          "label": "4일전",
+          "label": "5일전",
           "date": "2026-09-01",
           "date_short": "9/1 화",
           "close": 178785,
           "prev": null
         },
         {
-          "label": "3일전",
+          "label": "4일전",
           "date": "2026-09-02",
           "date_short": "9/2 수",
           "close": 175475,
           "prev": null
         },
         {
-          "label": "2일전",
+          "label": "3일전",
           "date": "2026-09-03",
           "date_short": "9/3 목",
           "close": 175270,
-          "prev": 175475,
-          "change_pct": -0.11682575865507908
+          "prev": null
         },
         {
-          "label": "1일전",
+          "label": "2일전",
           "date": "2026-09-04",
           "date_short": "9/4 금",
           "close": 176990,
@@ -2331,155 +2323,163 @@
           "change_pct": 0.981343070690934
         },
         {
-          "label": "오늘",
+          "label": "1일전",
           "date": "2026-09-07",
           "date_short": "9/7 월",
           "close": 175920,
           "prev": 176990,
           "change_pct": -0.6045539296005424
+        },
+        {
+          "label": "오늘",
+          "date": "2026-09-08",
+          "date_short": "9/8 화",
+          "close": 176020,
+          "prev": 175920,
+          "change_pct": 0.056844020009095046
         }
       ],
       "forecast": [
         {
           "label": "1일후",
-          "date": "2026-09-08",
-          "date_short": "9/8 화",
+          "date": "2026-09-09",
+          "date_short": "9/9 수",
           "horizon_days": 1,
-          "low": 171653,
-          "high": 180537,
-          "center": 176039,
-          "low_pct": -2.425258723303439,
-          "high_pct": 2.624688237828981,
-          "center_pct": 0.06786398943371819
+          "low": 171756,
+          "high": 180643,
+          "center": 176144,
+          "low_pct": -2.4223654524064133,
+          "high_pct": 2.626562560469095,
+          "center_pct": 0.07026139868529441
         },
         {
           "label": "2일후",
-          "date": "2026-09-09",
-          "date_short": "9/9 수",
+          "date": "2026-09-10",
+          "date_short": "9/10 목",
           "horizon_days": 2,
-          "low": 169984,
-          "high": 182558,
-          "center": 176159,
-          "low_pct": -3.3741319721643883,
-          "high_pct": 3.7731763352992815,
-          "center_pct": 0.13577403407804298
+          "low": 170090,
+          "high": 182669,
+          "center": 176267,
+          "low_pct": -3.36872392003505,
+          "high_pct": 3.7773131034423852,
+          "center_pct": 0.1405721640120488
         },
         {
           "label": "3일후",
-          "date": "2026-09-10",
-          "date_short": "9/10 목",
+          "date": "2026-09-11",
+          "date_short": "9/11 금",
           "horizon_days": 3,
-          "low": 168741,
-          "high": 184152,
-          "center": 176278,
-          "low_pct": -4.080827156355288,
-          "high_pct": 4.679671866906227,
-          "center_pct": 0.20373016518792728
+          "low": 168851,
+          "high": 184269,
+          "center": 176391,
+          "low_pct": -4.072986912180258,
+          "high_pct": 4.686163316560217,
+          "center_pct": 0.2109323306659378
         },
         {
           "label": "7일후",
-          "date": "2026-09-16",
-          "date_short": "9/16 수",
+          "date": "2026-09-17",
+          "date_short": "9/17 목",
           "horizon_days": 7,
-          "low": 165344,
-          "high": 188959,
-          "center": 176757,
-          "low_pct": -6.012018039706748,
-          "high_pct": 7.411922427416158,
-          "center_pct": 0.4760161801233463
+          "low": 165468,
+          "high": 189095,
+          "center": 176888,
+          "low_pct": -5.994838534890907,
+          "high_pct": 7.428318851907416,
+          "center_pct": 0.49286770512013567
         },
         {
           "label": "1달후",
-          "date": "2026-10-07",
-          "date_short": "10/7 수",
+          "date": "2026-10-08",
+          "date_short": "10/8 목",
           "horizon_days": 22,
-          "low": 158637,
-          "high": 200998,
-          "center": 178565,
-          "low_pct": -9.824630985632043,
-          "high_pct": 14.255147193180958,
-          "center_pct": 1.5036948092827815
+          "low": 158815,
+          "high": 201213,
+          "center": 178761,
+          "low_pct": -9.774680509235795,
+          "high_pct": 14.312330143492671,
+          "center_pct": 1.5572080599419789
         },
         {
           "label": "6개월후",
-          "date": "2027-03-08",
-          "date_short": "3/8 월",
+          "date": "2027-03-09",
+          "date_short": "3/9 화",
           "horizon_days": 130,
-          "low": 144107,
-          "high": 256182,
-          "center": 192140,
-          "low_pct": -18.083704394251164,
-          "high_pct": 45.624145893169974,
-          "center_pct": 9.219918432123015
+          "low": 144648,
+          "high": 257111,
+          "center": 192849,
+          "low_pct": -17.8228451709219,
+          "high_pct": 46.06891345637207,
+          "center_pct": 9.560612068477875
         },
         {
           "label": "1년후",
-          "date": "2027-09-07",
-          "date_short": "9/7 화",
+          "date": "2027-09-08",
+          "date_short": "9/8 수",
           "horizon_days": 261,
-          "low": 139699,
-          "high": 315670,
-          "center": 209997,
-          "low_pct": -20.589304545379434,
-          "high_pct": 79.43933503684356,
-          "center_pct": 19.37086071227941
+          "low": 140668,
+          "high": 317801,
+          "center": 211435,
+          "low_pct": -20.08384924782755,
+          "high_pct": 80.54826119601589,
+          "center_pct": 20.119615632849143
         }
       ],
       "observations": [
-        "추세: 강한 하락 추세 (역배열) (MA5 176,488원 / MA20 180,958원 / MA60 189,675원)",
-        "52주 최고 207,481원 대비 🔵 -15.21%, 최저 143,220원 대비 🔴 +22.83%",
+        "추세: 혼조 (MA5 175,935원 / MA20 180,408원 / MA60 189,316원)",
+        "52주 최고 207,481원 대비 🔵 -15.16%, 최저 143,220원 대비 🔴 +22.90%",
         "연율 변동성 20.4% (중간) - 장기 예상(1달 이상) 범위는 폭이 매우 넓어 참고용",
-        "최근 120일 평균 추세 연율 🔴 +17.1% - 미래 중심값은 이 추세 연장 가정"
+        "최근 120일 평균 추세 연율 🔴 +17.7% - 미래 중심값은 이 추세 연장 가정"
       ],
       "realtime": null,
       "news": [
         {
-          "at": "09-07 13:18",
-          "kw": "애플",
-          "title": "500만원짜리 中폴더블폰 등판…애플 나오기 전 '기선제압'? - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vQWpHbmtyZVZjNHJXNHFFUXJ1QTNXUTlsVUgyYVgxN2ZYaG9LOG9rU3ozdFVEeG90SWF5SUVtRTNXWDVOQTZ5dWFiS2ZZS3gzdzFmXzJNUDdXZw?oc=5"
+          "at": "09-08 11:41",
+          "kw": "엔비디아",
+          "title": "SK하이닉스 298만원에 물렸는데, 어떡해? ‘엔비디아도 같은 늪 건넜다’ [투자360] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4TE1Hb3pDQ3RnNDBRYi0ya1lfcFZYb01xZUdyNEpyckJYVUpQQTZ3RVQtaWk1WmJ2ZllyX1pzSHVfQ3RtOE9SeEtrTW9hUDA?oc=5"
         },
         {
-          "at": "09-07 13:03",
-          "kw": "환율",
-          "title": "달러 살 때? 팔 때? …전문가 \"3년 평균치 밑돌면 매수해야\" - newsis.com",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeGU5U2NlVjJ1TnZXcjYzcXpTMlNLRlhMSGF2c1VkWUQ3djVaQzh5UkltSWpyMDdKZ2gyZHdpajNKZENXWS1vWnJxMUtjYmdTemszSWJxRlBzVEVHM0owQ9IBeEFVX3lxTE5aTzRVRnRsQmpXSS11b1ZUcDJKanlVTEZuLUozUHRpZlliekdaRmJEci04MUo0VEFNS3Z5aDBsZ1djdzQ1RmstOG0xN3k1NUpWZmJaeUdtQTlMQ0tkUW5JMlRnZ2pMc00wenJRZUpQUy1jeUEyNjdpMA?oc=5"
-        },
-        {
-          "at": "09-07 13:01",
+          "at": "09-08 11:25",
           "kw": "트럼프",
-          "title": "트럼프 특사와 종전 논의했지만…러·우크라, 곡물수출항·정유시설 서로 타격 - KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hS3cyUTVfNnktZGtfTHRWN3pfR0JaaFBOMW9tRzN2RG9nSnF1bTlINGRVLWk1Ql9kNlhVNXZrajdQaUg5TTZxYV8wTkNteFk3U0pYcFEwSUtydDQ?oc=5"
+          "title": "트럼프 올린 美지도에 이웃나라들 포함…아이슬란드, 美대사 초치 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jMFViN2FQeW9fbWhWMjhvTUJJbWNJS0JpNEJ2ekR4S0V0cDJFb05pZ1dWNkUwZmY2NkVkTzMza1A5TVhndEZlSF84VzFCY0tBMEVCeDhnMDhSQkHSAWBBVV95cUxOY2J6dmFLWVN3ZU1TUWdCcnVNc3hUejM1V2tHbWdKdXlLOWNCc2xSNWRlR3h2V2c2VEZpeTdKX0U0aTZHTUVjNzZmYTk4N1NOS25TWXlvcE1DUEIwSWxMN3Q?oc=5"
         },
         {
-          "at": "09-07 13:00",
+          "at": "09-08 11:04",
           "kw": "애플",
-          "title": "애플 보란 듯…화웨이·샤오미, 폴더블폰 신제품 동시 출격 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FUnJuMTFpVnpka01FOEU2SElkVzItNlJxSVB0YkN1WTk2aDlpX3p0ZUZmZWVWdk9WRU9Md2p5TVE0bHNaNTJBMFhsczY5WDA?oc=5"
+          "title": "애플, 첫 폴더블폰 '울트라' 공개 임박…BofA, 목표주가 380달러 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BV3o0bUw4NmFjeFJDZl9VRFpuTVJGWEtteGtrSzhaSUlrTl9Od2pnUjVYZE5HZm1GWVRMeUI4cHVIRVhRUFNMS1Y4S1V5NEh0ZFIyTy1kNjVxdDhuWk5DLUxJYmdMX0FQbHRtUTRYSGozems?oc=5"
         },
         {
-          "at": "09-07 12:50",
+          "at": "09-08 10:56",
           "kw": "전쟁",
-          "title": "'연애전쟁' 이효리, 여친 비하 남친에 분노…\"인간이 하는 말 맞아?\" - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSM21SZDdJaXVva1VVWTViSDFweTF0ajRhOGY5UVdwdGRCdWN6aVFCOWVzZnV6b2lzcE5obVdKR1FaNFpWVEdfNUkzV2tZYThwZExjSzNVbzV6NFdqNkMwb01sb0prdnMxNWt3X2N2REdCaGfSAXhBVV95cUxPLWtuNWp4V29uNzMxZXBYUVZlU0k2akEwZjNrZFJRTXdzWEtMTVJQNnNBNG43U1d6d1IxVV9rMVhyLW1aQWhselE1amx0QjZpclZNc1NZMFZ4UWduTV9GV1pMeUp0emI2SUZuSm1qSXU0OHJUWk9FbV8?oc=5"
+          "title": "정점식 \"국가 안보\" 말하자…\"전쟁 일으키려던 놈들이 무슨!\" - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JUTMxNjgyRG5oQmw4UUN4WEI2dWdYQW9CT2ZPVS1HN2NsWFNtaG1OLWMzcWJOWHFJMUhCMTVKbk85a2wzbG96bnJOQTRGX3c?oc=5"
         },
         {
-          "at": "09-07 12:08",
-          "kw": "넷플릭스",
-          "title": "[SC인터뷰] \"죽을 때까지 연기하고파\"…설경구, '들쥐'→'가능한 사랑'으로 이어갈 글로벌 활약(종합) - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEptVmlrYmVNYVlNS1VWNVpILTdKczJJY2hKTHVuaGF0WjFqOFBXd2FwU2M2VHM1bjVXd0dMQU1kcHFPUTJYQ2dRV0l5TnVITDNrV1daZTZBUVNKUEFnbVZBaFh2dVFTSkpwU0VNTXM2WXNMVjlVOGlzTnhpSS1fOHJiZmVQeUQyWGR4QUNEMA?oc=5"
+          "at": "09-08 10:55",
+          "kw": "전쟁",
+          "title": "자화자찬부터 AI 전쟁까지…트럼프, SNS에 80개 글 ‘폭주’ - 채널A",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZWFo3ejlxeW5MTm92V1V1cUh3N2ZRdjJ4UkJkS2pUbnhYQm91SkJtZVczSzNiTG84YW93em5Eb0xibW5BbEZKTHFZajB5Ry14UGkwLTVsbGc5Qm5taHfSAWNBVV95cUxNUlhTVUktVlZKV25wUHBCVlEybHlzLVg3ckNiYmhDWll0RGxSWFk2WHdFZWM4MXhEYUJlUW9FOWRCblRPSC0xb0JxYkUyODhnaFhfZWxrUkttbzBkc1hQX24yZzA?oc=5"
         },
         {
-          "at": "09-07 11:14",
-          "kw": "코스트코",
-          "title": "[인천시론] 코스트코가 영수증에 낙서 하는 이유 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CTndrYXRJM29oQVd6VzdnOHFKVUhReDkwZU5sdmNTZm5NTUNOX0ZKcmgzRXJUVFV4d1N0eVlocERaZXJjWDBwci1kVjU3VVZPRmJrSGxELXdIcFU?oc=5"
+          "at": "09-08 10:50",
+          "kw": "유가",
+          "title": "후티 반군, 사우디 석유 시설에 대규모 공습…국제유가, 2%대 급등 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbHQ1SjdpUDQ5ZW5aSUdmeUlzZHBrdW1EZXo4XzVkSldRZ1NyWGJhNkNjTGlLQVUxNzJmd2p4WjNFc0o4dE1xYnpjdHZteUxKZVFudkJXWUdEdEp2RzJONVlZTUo4dHM40gFuQVVfeXFMUGNtSHgyOTkzSTJ1NUoxNTdnVE44Zm5NQ00zS2lUanpOZFhZOXB3Szl0Ym5VUHMzVEdYbDJpREhUby1nU0JNc2NWQXB4SVNuT2txQU5TX2Q4NHBvWkVYbGgyNUN4TWhOS0stWmg2YVE?oc=5"
         },
         {
-          "at": "09-07 11:13",
-          "kw": "반도체",
-          "title": "코스피 7천 선 근접‥아스트라로 메모리 반도체 상승 시동 걸렸나 - MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQlZieXFLR2g2WFUteUh1d3F6czNPbXNVcXluY0VreW1IV0tLRnhQNkxPbFJ6eXROZnI5dHBwbEZ3X085QlV5QTNWRXh2ZnVWcjJ5QjlmeF9fTDZsaGszVjFPLXJ4NEJaYTZCRWdYcjQ5R3M5MjJPRdIBeEFVX3lxTE55ZDZwS1RZaVhpcUU3WjB4MDNUaVNRbTJNZC1teU1HdXpDWllLQW1GOUd3QWxwdS0xQ2lFeHItYUVuX1dheHBKeEFFWTR1ZWJ1UmlWT2h0YTdSLWxPSWFZWmdGTDZFdXFVWHZVYTRmSDBSWHU0dkJZWg?oc=5"
+          "at": "09-08 10:39",
+          "kw": "AMD",
+          "title": "\"반도체 반등할 것\"…시티, AMD·마벨·루멘텀 '주목' - edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQm9uUk8wbFRpUHNENzlYeno0RWxmV1ZBekV0d0pQWEdOQURncTBsUXhLM2I1aXdSTVdRNlo3a1F5X2ZoWDlzdXptSzlzUEppcThqeG1lSnBuNmdnbWVmWUNaT0puSE53NlpTRlVGb1laLTF3OHFTbTQwUnBsUV9FcQ?oc=5"
+        },
+        {
+          "at": "09-08 10:07",
+          "kw": "AMD",
+          "title": "AMD 500달러 돌파할까? AI 모델 5개가 내놓은 9월 말 주가는 - 코인리더스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJbGVSd3ozZFVZZzVuVXNabHZENWhqWWVLVnhCemhXSXNtNmdNUnhBN3Q4aHYtUEg5N29ERnJldi1iak5hNFU1ekRn?oc=5"
         }
       ]
     }
