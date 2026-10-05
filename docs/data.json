@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02 22:51 KST",
+  "generated_at": "2026-10-06 01:00 KST",
   "tickers": [
     {
       "ticker": "360750",
@@ -1193,52 +1193,52 @@
       "realtime": null,
       "news": [
         {
-          "at": "10-02 13:32",
+          "at": "10-05 15:52",
           "kw": "퀄컴",
-          "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready? - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmFDMFNOaklvcTFlRGtjbThYRHg5R2ZYOWF5WlhhZkxnMTBwTjMxbld6ODNkcWpVbkxVRnh0ZnRSLWJmRFlCRGxiUU10Q1V6STBJLVhFaG9WU3VtbDRXYmFhckc5YU10OS1MMUJoMkJxQVZSXzgxckJqTFNDM1RWNGRlNGhBWGtaVFVhVDNPM2hzbmw2OVE?oc=5"
+          "title": "퀄컴과 Arm, 칩 테스트 도구 관련 새 재판 시작 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCUGdPZHJVN29pbms3Q3FPejVucGRqUHI4eWJZekctQ1lkLTZkZVB2NUMzYTRDNkdsS2k0R1BMMnlVcUtXVERkODlfNTdTTEN3bGthbEw2VWlSemdmVTdWRnhFNEhFdElIa09aUVhqbGk?oc=5"
         },
         {
-          "at": "10-02 13:27",
+          "at": "10-05 15:51",
+          "kw": "연준",
+          "title": "美고용 식었는데 서비스 물가 더 뛰었다…연준 딜레마 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42anZvV1c1MF9fYkp4dW4yX2R1eWc4bWJGVnNvb185SS1KeXpMNGRtZ182bU5aOWRKR0RjSlpveExjRmxlcUFNbFZMUmtILTFqYklhUG0xOHZsYzUxRjlSVlFJTlRleE1WNTcyaGJkaWViX1E?oc=5"
+        },
+        {
+          "at": "10-05 15:37",
+          "kw": "국채가",
+          "title": "美 국채가, 유가 하락에도 하락세 지속 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jRGkzdFZvek50MjNiOTBUaHUzbEhDaTdkZHpRbjByRWJ0aGgwb3lYWXZhNzJHMTY0djJIQmFyZFZ4d2dQSFEzcFZ5T216b29iS01nVUhSN1JyNTNBcU9YSzQ3T3hIMVNwYnMzV2VkNG4?oc=5"
+        },
+        {
+          "at": "10-05 15:33",
           "kw": "메타",
-          "title": "에버코어 설문, 메타·구글 디지털 광고 지출 선두 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kOWRMRjMwVm9IQWwzSThjaThpTWRQVU5lVzdmNExGaEdDcnFVTnNVZFVmZFZwSUR0Y2pkcGdXZlRZR1pLcl8wUkNjbURJVnZnWHc0MmkwczBzamhwUzlETTEtem00NzhfNlAyOTZVNVMzT3c4M3dn?oc=5"
+          "title": "메타, 틱톡, X, 영국 규제 당국의 정보 요청에 반발 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wcVNKaGt3ZG9ISHp1WVBsam52b0VsMUs1bllPRkQ5aDZhVjIwNFpzLTB2djBHY0J6WWhqa3RDOHg1czZLcGFvQzRZeWwxcVRydXktbURKT25mSlpIZjJCSFdMYTBJUEFkU1E?oc=5"
         },
         {
-          "at": "10-02 13:21",
-          "kw": "미국 고용",
-          "title": "美 9월 고용 2만9000명 증가…예상치 8만4000명 크게 밑돌아 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGRReWJkTmQ5UlFmSnYyOHV4UnlsdDIyWEhPVHI5ajk4a2RSQWswX1JuMktYVnoxS0REMXdZT0FFWFFDaXBpSm9GdTFoY2JyZWJjN05FTGE3U1QzU1RBRXpUOXV2bTcwZWdIazF6bVdDSE9IdmZtNEJ6a2ZtYVZqYmJ0ZkVfSU4y?oc=5"
+          "at": "10-05 15:05",
+          "kw": "마이크로소프트",
+          "title": "[속보]장 초반 엔비디아·테슬라·마이크로소프트 상승, 마이크론·인텔·AMD 약세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43RVJLdkVXbzRaUWt1SlpaLUJaMU5HVUZCVmpFZnFpc3d6d0Z2eV84ZUlBYlQ5MU1jQVctNi1lVnkwbkVCZWhzYk9qMmFmQjExaU84VnU2TFpBU2hLZTJJUURoWVNOODhN?oc=5"
         },
         {
-          "at": "10-02 13:03",
-          "kw": "메타",
-          "title": "[미국 특징주] 메타, '천문학적 벌금' 위기…뉴멕시코주 최대 400억달러 요구 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHTjk2ZWk3X1dhMW5pam80ZmlJaGpjUTBfQllNZVRvQWI2a1VzRy1UNHJEUFlhUmhUeDJPOVBPTmx0ZlZBSllvdmZaaF9yUFFQVUhRN3l0OXN2UXVY?oc=5"
+          "at": "10-05 14:59",
+          "kw": "미국 금리",
+          "title": "뉴욕 증시, 국채 금리 주목하며 혼조 출발 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByVzU0SE1lVmFEazE2VWZPekFPU21qc2t4UEFTcjFTT2dnNmEtWlhZTklyVk1Zc3MzTThLVW9uNHRFLVo3aW5jelQ5TVVfWVdlNnpxRlRuQXMtaWt6NUE?oc=5"
         },
         {
-          "at": "10-02 12:51",
-          "kw": "미국 고용",
-          "title": "미국 9월 고용 2만 9천명 증가…예상치 크게 밑돌아 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSmoyWUZZT0J4Sm0xMlE3MkhXakdaWWZEVkxqWld0OXY2YktVT18ySUkybjF4X3JwS1Y1TG8wVFA2OFplUzA4WDlqWjdLUTNXUUU4UzlpOTRuQ0lTZDZrOENuVnJ5NHM?oc=5"
+          "at": "10-05 14:27",
+          "kw": "국채가",
+          "title": "\"AI반도체주 아직도 싸다?\"…그래도 불안하면 이 종목[박신영의 개장전 요것만] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfeDlRS3V1N2ZSdU9oYld1R3FuX1lsaGt4YTdoblYwMWlBQldxSk5jYjVmLWtOdUcwbVhXUjJlejVoc1lJamhuakJjN01PZEd5dlVPenFlUlNtQQ?oc=5"
         },
         {
-          "at": "10-02 12:42",
-          "kw": "원달러 환율",
-          "title": "환율, 강달러에 1366원 터치 후 수출업체 매도에 1340원대로 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KcXR3SndibkVVTkRhd1JHeEZSX19HdlNlUVl3bGYtX3ZDVXd1S1lFVFFrVEVnTWRha3NuNmRiTnRXWmRnOHZNV0taOHJqbzctaDRnMHN1OEc4el9zZG5JM19CcEVPOFYxOUVIenYteDI?oc=5"
-        },
-        {
-          "at": "10-02 12:05",
-          "kw": "원달러 환율",
-          "title": "삼전닉스 '458조' 움직인다…거꾸로가는 환율 뒤에 '반도체 달러' - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15NFBHT0JJMG9xMFlpVnVWaE9nbzg1RkJ2U2Rrb0phWW1ZbmdZN3lEYkVyeTdha2dBNDJxdG5TdktqNEt3bFdReFNCLURjUQ?oc=5"
-        },
-        {
-          "at": "10-02 11:59",
-          "kw": "엔비디아",
-          "title": "엔비디아, 마이크론, 브로드컴 - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxeXlvRk5hYUZXcjc3RVl2QUZwLVo3b3YxcTZnYTcxSjJELVBYQUJKWXRVTXRCcXI4M1B4WVBpRU5rUmNoc2VOUzR4b1hLeVlmNEh1NWFZYVM0Z1o4bzU4Z1Y0TFJHUl80alVPVWNPcDlkMUk?oc=5"
+          "at": "10-05 14:17",
+          "kw": "테슬라",
+          "title": "UBS, 혼재된 테슬라 인도량 실적에 ’중립’ 투자의견 유지 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MUGIyZmx4OWdhZWttdjBjN21WSFBVMUtnNEpTaS0zMlU3Q3R0bGRwY0JLeXRxZERJTE1INDB3OG5HWmtGbjFWQVptcllzY3lVSjFPMUwzZkFLbVVUSkp2QkxwbUdDSGt4MnVJOGgtaWNKQ3Vo?oc=5"
         }
       ]
     },
@@ -2434,52 +2434,52 @@
       "realtime": null,
       "news": [
         {
-          "at": "10-02 13:32",
+          "at": "10-05 15:52",
           "kw": "퀄컴",
-          "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready? - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmFDMFNOaklvcTFlRGtjbThYRHg5R2ZYOWF5WlhhZkxnMTBwTjMxbld6ODNkcWpVbkxVRnh0ZnRSLWJmRFlCRGxiUU10Q1V6STBJLVhFaG9WU3VtbDRXYmFhckc5YU10OS1MMUJoMkJxQVZSXzgxckJqTFNDM1RWNGRlNGhBWGtaVFVhVDNPM2hzbmw2OVE?oc=5"
+          "title": "퀄컴과 Arm, 칩 테스트 도구 관련 새 재판 시작 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCUGdPZHJVN29pbms3Q3FPejVucGRqUHI4eWJZekctQ1lkLTZkZVB2NUMzYTRDNkdsS2k0R1BMMnlVcUtXVERkODlfNTdTTEN3bGthbEw2VWlSemdmVTdWRnhFNEhFdElIa09aUVhqbGk?oc=5"
         },
         {
-          "at": "10-02 13:27",
+          "at": "10-05 15:51",
+          "kw": "연준",
+          "title": "美고용 식었는데 서비스 물가 더 뛰었다…연준 딜레마 - 마켓인",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42anZvV1c1MF9fYkp4dW4yX2R1eWc4bWJGVnNvb185SS1KeXpMNGRtZ182bU5aOWRKR0RjSlpveExjRmxlcUFNbFZMUmtILTFqYklhUG0xOHZsYzUxRjlSVlFJTlRleE1WNTcyaGJkaWViX1E?oc=5"
+        },
+        {
+          "at": "10-05 15:45",
+          "kw": "빅테크",
+          "title": "트럼프 “AI 대신 SI 쓰라” 지시에… 빅테크 거물들 일제히 ‘줄서기’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiN0cxT1JPVG5HWnV5UHFyVGt5OUhlSFZMeHFKQmJuQXk1Wk03TXI1VGZpVmJrQnJuODdIdFpJY1lxTGJpdDd5VHFadk4yX2c?oc=5"
+        },
+        {
+          "at": "10-05 15:37",
+          "kw": "국채가",
+          "title": "美 국채가, 유가 하락에도 하락세 지속 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jRGkzdFZvek50MjNiOTBUaHUzbEhDaTdkZHpRbjByRWJ0aGgwb3lYWXZhNzJHMTY0djJIQmFyZFZ4d2dQSFEzcFZ5T216b29iS01nVUhSN1JyNTNBcU9YSzQ3T3hIMVNwYnMzV2VkNG4?oc=5"
+        },
+        {
+          "at": "10-05 15:33",
           "kw": "메타",
-          "title": "에버코어 설문, 메타·구글 디지털 광고 지출 선두 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kOWRMRjMwVm9IQWwzSThjaThpTWRQVU5lVzdmNExGaEdDcnFVTnNVZFVmZFZwSUR0Y2pkcGdXZlRZR1pLcl8wUkNjbURJVnZnWHc0MmkwczBzamhwUzlETTEtem00NzhfNlAyOTZVNVMzT3c4M3dn?oc=5"
+          "title": "메타, 틱톡, X, 영국 규제 당국의 정보 요청에 반발 - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wcVNKaGt3ZG9ISHp1WVBsam52b0VsMUs1bllPRkQ5aDZhVjIwNFpzLTB2djBHY0J6WWhqa3RDOHg1czZLcGFvQzRZeWwxcVRydXktbURKT25mSlpIZjJCSFdMYTBJUEFkU1E?oc=5"
         },
         {
-          "at": "10-02 13:21",
-          "kw": "미국 고용",
-          "title": "美 9월 고용 2만9000명 증가…예상치 8만4000명 크게 밑돌아 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGRReWJkTmQ5UlFmSnYyOHV4UnlsdDIyWEhPVHI5ajk4a2RSQWswX1JuMktYVnoxS0REMXdZT0FFWFFDaXBpSm9GdTFoY2JyZWJjN05FTGE3U1QzU1RBRXpUOXV2bTcwZWdIazF6bVdDSE9IdmZtNEJ6a2ZtYVZqYmJ0ZkVfSU4y?oc=5"
+          "at": "10-05 15:05",
+          "kw": "마이크로소프트",
+          "title": "[속보]장 초반 엔비디아·테슬라·마이크로소프트 상승, 마이크론·인텔·AMD 약세 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43RVJLdkVXbzRaUWt1SlpaLUJaMU5HVUZCVmpFZnFpc3d6d0Z2eV84ZUlBYlQ5MU1jQVctNi1lVnkwbkVCZWhzYk9qMmFmQjExaU84VnU2TFpBU2hLZTJJUURoWVNOODhN?oc=5"
         },
         {
-          "at": "10-02 13:03",
-          "kw": "메타",
-          "title": "[미국 특징주] 메타, '천문학적 벌금' 위기…뉴멕시코주 최대 400억달러 요구 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHTjk2ZWk3X1dhMW5pam80ZmlJaGpjUTBfQllNZVRvQWI2a1VzRy1UNHJEUFlhUmhUeDJPOVBPTmx0ZlZBSllvdmZaaF9yUFFQVUhRN3l0OXN2UXVY?oc=5"
+          "at": "10-05 15:02",
+          "kw": "빅테크",
+          "title": "빅테크 ‘전’의 전쟁…‘자가발전’ 177조 시장 열렸다 - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pMm5tWEtuMXA1dWlkRGUyZ29zY2tKWEc2MDkyeEVMdWpzQWwwM3ZDZlowcFZfeVh0U2N3S0E5X244RGdmcHI4S1pBMzViMm5VWV93dlhB?oc=5"
         },
         {
-          "at": "10-02 12:51",
-          "kw": "미국 고용",
-          "title": "미국 9월 고용 2만 9천명 증가…예상치 크게 밑돌아 - 연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSmoyWUZZT0J4Sm0xMlE3MkhXakdaWWZEVkxqWld0OXY2YktVT18ySUkybjF4X3JwS1Y1TG8wVFA2OFplUzA4WDlqWjdLUTNXUUU4UzlpOTRuQ0lTZDZrOENuVnJ5NHM?oc=5"
-        },
-        {
-          "at": "10-02 12:42",
-          "kw": "원달러 환율",
-          "title": "환율, 강달러에 1366원 터치 후 수출업체 매도에 1340원대로 By EBN - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KcXR3SndibkVVTkRhd1JHeEZSX19HdlNlUVl3bGYtX3ZDVXd1S1lFVFFrVEVnTWRha3NuNmRiTnRXWmRnOHZNV0taOHJqbzctaDRnMHN1OEc4el9zZG5JM19CcEVPOFYxOUVIenYteDI?oc=5"
-        },
-        {
-          "at": "10-02 12:05",
-          "kw": "원달러 환율",
-          "title": "삼전닉스 '458조' 움직인다…거꾸로가는 환율 뒤에 '반도체 달러' - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15NFBHT0JJMG9xMFlpVnVWaE9nbzg1RkJ2U2Rrb0phWW1ZbmdZN3lEYkVyeTdha2dBNDJxdG5TdktqNEt3bFdReFNCLURjUQ?oc=5"
-        },
-        {
-          "at": "10-02 11:59",
-          "kw": "엔비디아",
-          "title": "엔비디아, 마이크론, 브로드컴 - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxeXlvRk5hYUZXcjc3RVl2QUZwLVo3b3YxcTZnYTcxSjJELVBYQUJKWXRVTXRCcXI4M1B4WVBpRU5rUmNoc2VOUzR4b1hLeVlmNEh1NWFZYVM0Z1o4bzU4Z1Y0TFJHUl80alVPVWNPcDlkMUk?oc=5"
+          "at": "10-05 14:59",
+          "kw": "미국 금리",
+          "title": "뉴욕 증시, 국채 금리 주목하며 혼조 출발 - YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByVzU0SE1lVmFEazE2VWZPekFPU21qc2t4UEFTcjFTT2dnNmEtWlhZTklyVk1Zc3MzTThLVW9uNHRFLVo3aW5jelQ5TVVfWVdlNnpxRlRuQXMtaWt6NUE?oc=5"
         }
       ]
     }
