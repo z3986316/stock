@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 23:35 KST",
+  "generated_at": "2026-10-09 23:22 KST",
   "tickers": [
     {
       "ticker": "360750",
@@ -1193,52 +1193,52 @@
       "realtime": null,
       "news": [
         {
-          "at": "10-08 14:17",
-          "kw": "애플",
-          "title": "Amazon, 구글 플레이 앱 탑재 고급 알렉사 태블릿으로 애플에 도전 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fUnh5a0ZQZEN6NUczVGI5OUJFeEVnUnRrWUIzWUgxMkF2LTkySXFOMnRFR2xPek1YOVN4ODZrYUhXUTk5eEFYM3BjS0ktb1FHYlc1UWFyOThhR0ZwaTFaaXU1R09BUTJkbHZZV0FEaXE?oc=5"
+          "at": "10-09 14:05",
+          "kw": "유나이티드헬스",
+          "title": "유나이티드헬스그룹 주가, 오늘 급등하는 이유는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16bHE1UWRaNlJCcWIzall1dFhhMUxRS1pVSWp6U2JCbG1rbDc2OHAwMmZBSEFDRHRWclhZR2RVWS1QUTdubHJhMEdXZEE5bmNIRDc1Q1E0aUNUaGUxQ2RzLUVHNklNb2M2Z0lXV3ZWeGFwRWFoOGhB?oc=5"
         },
         {
-          "at": "10-08 14:03",
+          "at": "10-09 13:53",
+          "kw": "테슬라",
+          "title": "테슬라 주가, 오늘 급등하는 이유는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUmVUZndlZFJZc2taYndzeGFmLTkwT0Jwc3dtSGt6MFl0TTFpQkl5TXRxVkllWVZ4R2Fqd0tRTno4TVpXRnNJaHhOa2pxVEd0bDFiSHZhWFdPUkRqRUJkN0tzQm9nbzkxd2lWWWppcjgzOVZDR18w?oc=5"
+        },
+        {
+          "at": "10-09 13:18",
           "kw": "메타",
-          "title": "[미국 특징주] 메타 '뮤즈' 돌풍에도 월가 \"진짜 승자는 반도체주\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KVEZlVzBVV3A5TGptc2Vja3BWNm91N1ZGOVNpbktNV1NjOXdtejFhUVJLeWhDWE1nTnFkN28yR3RKNDMwcFJWRTVOWWlScWlKSlQ3cy1xTERwVktt?oc=5"
+          "title": "Meta Bans ByteDance Advertisements Across Platforms in Major Escalation - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0lGWUxOZXRBM3dNUnQwUXF2Ny1aUFlwRzdXLUlIY3AyLVZtU2FhR3k1LUxRbl82RFcwN2ZuTVc1X0lieXJpZUNBVWZTUWJfcWZIOFcxZDFIUnhCTHgzVzBIZzd2cEtFUWpoMWtQY0ZZRkdMRlk2OVhuRmJCOGNCMmI5aThWdw?oc=5"
         },
         {
-          "at": "10-08 14:00",
-          "kw": "트럼프",
-          "title": "이목 끈 트럼프 옆 여성의 정체는 ‘랩틸리언 외계인’? - 주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mQ0xjdzlvVlRKZDI4QWJUem5JMVpoaFBsU3NpQjZ4cUlQSXRCOFp3eTJ3QmRiR0JJNEJGVnl0WFJhZWNWYjh4Q1FmSlpUNVFhTmYtZFBnc2pqZlNJbkE?oc=5"
+          "at": "10-09 13:11",
+          "kw": "미국 증시",
+          "title": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+] - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQ0pfLUVHV2JLaUtMRzRkd1diQVlMUV9aMXViVHdiVDB0VDQxa0RyczVPM0M0Z0VFalZwb21ock5RN3FnMHl6NUJLWDhFSFM2SEFMem04YUNpZw?oc=5"
         },
         {
-          "at": "10-08 13:36",
+          "at": "10-09 13:06",
           "kw": "연준",
-          "title": "연준 월러 \"추가 금리 인상 예상하지만, 연속으로 할 필요 없어\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15ZzF5V3FscjJLRndHVjhsczVORnJjemdHclpmelVvRzVVbloxMmdyYzQ0cjA0X3dZNVFvMmwxTzY2MEpZdFIxOWhQQ2dERTBsbFdnTTRObFNWMVFEVHJhbGhQbVhnaVYyQ09kdGVSQk4?oc=5"
+          "title": "연준 이사 인준 막혔던 '금본위제 옹호론자', 트럼프 재무부로 돌아왔다 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZE5iSnNLUG1NcWN4elp4SjBPbVpqbU1QVjdkazFpUEZQQUhYNTdSSTZzR3ZZRjk4a2NESTlyRWFZdHdnRXQ2eWFTNmk2cGNhdkxHMFZzVS1NMk5M?oc=5"
         },
         {
-          "at": "10-08 13:34",
-          "kw": "S&P 500",
-          "title": "[미국 특징주] S&P500 목표치 8300→5000 '급선회'…英 전략가 \"2008년 이후 최악의 폭락 올 수도\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nZlhzbnRqeUVkZHJpQXI0d095REp4d3h2S1dsUTd5Wkg5NldnblMyTkFDUldkclFpdEZTdGMxWVpoQjRBNDdnVDNsdWhsT25NMWxQSENqLWtDR2xM?oc=5"
+          "at": "10-09 12:27",
+          "kw": "퀄컴",
+          "title": "[美특징주]퀄컴·암(Arm)홀딩스, 법적 공방 본격화…개장전↑ - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlZSY1E5b0lET3JEM3daSG5NN0pMTUpqNnk0TWZVaml5UF9XcDBPWXBoSmZDdGlWOU9pTGpPZXl4VVhDLVl3dGZ2Yy1CTzBmLXRwaVQzVC1VMGlmZDZ6NUhhZHBtXy1KbnZqZHdxSGg0UlBvQ3hlclpwRklYUGVBXw?oc=5"
         },
         {
-          "at": "10-08 13:24",
-          "kw": "브로드컴",
-          "title": "뉴욕증시 개장 전 특징주...울프스피드·팔란티어·헤모네틱스↑ VS 브로드컴·TSMC·리바이스트라우스↓ - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ad1RFdzNxTV9mejVHUTg1MzFoU3JqSmZqTlQzeTZSYXd5SmF1SzBORmMycnZ4TElEaDI5eWE4SXp1UkFsMk9MeGdjV3VxYkxyY29iSjd6Zk5rNlhD?oc=5"
+          "at": "10-09 11:48",
+          "kw": "원달러 환율",
+          "title": "달러-원, 뉴욕장서 1,340원 초반대 거래 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUFhQcEd3S1NiSU53UjgzQ0NUMHB2aWZHQ3BCNEJkSVBJclBBdnpVTEplM1paSDgzcUdGb3BwSnlNMjRqNExjbklyVGxub25LY2hIOVowRFVrZFNXN01ZandOeXYyQTdlV05fMndkN1pwUQ?oc=5"
         },
         {
-          "at": "10-08 12:55",
-          "kw": "반도체",
-          "title": "반도체 ETF 리밸런싱에 변동성 커져…삼성전자 2000억 팔고 소부장 더 담는다 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iYmVVbGNvMzI1RklwMlMyMkpCandBdVdSdkgxX1gzOTNLdThubk9qbFh4elFnTDZHaUJfWDUweGNmMUNkUzVQYkNEQVhjZw?oc=5"
-        },
-        {
-          "at": "10-08 12:45",
-          "kw": "펩시코",
-          "title": "[미국 특징주] 펩시코, 북미 비용 상승 압박에 이익 전망 하향 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oSDhwQnE1dFVHMUNCZk5ndlZDT0tfZnMzUGl3d3VSbVN5T1NWWTEyNzUyVUtrRUx0b0lHM1VVMWRuWHJFYXA0UVlLVGJUeWhZOGVOZlJHWk5HRTNL?oc=5"
+          "at": "10-09 11:18",
+          "kw": "유나이티드헬스",
+          "title": "유나이티드헬스, 13일 실적 기대…목표주가는 낮춰-TD코웬 - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU1RT3ZTWFBtSGttWjlVdUpkLUtsY2hiUG1vc3lIRFBJXzQtVzdpYUhidmV4Q2R5OEQ2WkhkQmZSazZvTTVpOHBpMlY0OGwwNXBLLXNYTGtBVHg4ZXdYYi1IeE0wbjlwWFpReXhWU1ZaTExkVzMxNTNGM2h3ei1QaQ?oc=5"
         }
       ]
     },
@@ -2434,52 +2434,52 @@
       "realtime": null,
       "news": [
         {
-          "at": "10-08 14:17",
-          "kw": "애플",
-          "title": "Amazon, 구글 플레이 앱 탑재 고급 알렉사 태블릿으로 애플에 도전 - Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fUnh5a0ZQZEN6NUczVGI5OUJFeEVnUnRrWUIzWUgxMkF2LTkySXFOMnRFR2xPek1YOVN4ODZrYUhXUTk5eEFYM3BjS0ktb1FHYlc1UWFyOThhR0ZwaTFaaXU1R09BUTJkbHZZV0FEaXE?oc=5"
+          "at": "10-09 14:05",
+          "kw": "유나이티드헬스",
+          "title": "유나이티드헬스그룹 주가, 오늘 급등하는 이유는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16bHE1UWRaNlJCcWIzall1dFhhMUxRS1pVSWp6U2JCbG1rbDc2OHAwMmZBSEFDRHRWclhZR2RVWS1QUTdubHJhMEdXZEE5bmNIRDc1Q1E0aUNUaGUxQ2RzLUVHNklNb2M2Z0lXV3ZWeGFwRWFoOGhB?oc=5"
         },
         {
-          "at": "10-08 14:03",
+          "at": "10-09 14:03",
+          "kw": "나스닥",
+          "title": "[뉴욕개장] 유가 하락세에 상승 출발…나스닥 0.55%↑ - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GQllvMUFEQkd4Ni1xaENNVVdEZ2VJSlpvbmh5QTU2eHlTNDZKVnNVUGdQdV9kZmxuY0QtSERpZG5UMHRiUjdBZXlnQlpaMFo0UkFmTTRBd3g?oc=5"
+        },
+        {
+          "at": "10-09 13:53",
+          "kw": "테슬라",
+          "title": "테슬라 주가, 오늘 급등하는 이유는? - Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUmVUZndlZFJZc2taYndzeGFmLTkwT0Jwc3dtSGt6MFl0TTFpQkl5TXRxVkllWVZ4R2Fqd0tRTno4TVpXRnNJaHhOa2pxVEd0bDFiSHZhWFdPUkRqRUJkN0tzQm9nbzkxd2lWWWppcjgzOVZDR18w?oc=5"
+        },
+        {
+          "at": "10-09 13:30",
+          "kw": "나스닥",
+          "title": "[속보]뉴욕증시, 중동 긴장 완화 기대에 상승 출발…나스닥 0.53%↑ - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11LVk5OWVaMloxOEEtUnNKUkhVYW1xWVA1aEJGeXUzT1o5QWFiVW96OHF5V1o5NDRLS2J6ZUNmbDRxaUJteFpPRl9qcGlURUxpS08zUHNZVV85bWxnVXhWWdIBeEFVX3lxTE9IMHdFQWdxQUpPWWQtZTEzN3BZZmRNWEVoMUdrNUw2ZjAwakY4c1d3anAzd25mS1R0VzdvcVJkS2NpMDg4UllrV1VYRlAyVU9jQW80T0VvY2dpZG9lUnByZ3ZYb21DcWFsYXM2Uks0RmVYM203MVhTSA?oc=5"
+        },
+        {
+          "at": "10-09 13:18",
           "kw": "메타",
-          "title": "[미국 특징주] 메타 '뮤즈' 돌풍에도 월가 \"진짜 승자는 반도체주\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KVEZlVzBVV3A5TGptc2Vja3BWNm91N1ZGOVNpbktNV1NjOXdtejFhUVJLeWhDWE1nTnFkN28yR3RKNDMwcFJWRTVOWWlScWlKSlQ3cy1xTERwVktt?oc=5"
+          "title": "Meta Bans ByteDance Advertisements Across Platforms in Major Escalation - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0lGWUxOZXRBM3dNUnQwUXF2Ny1aUFlwRzdXLUlIY3AyLVZtU2FhR3k1LUxRbl82RFcwN2ZuTVc1X0lieXJpZUNBVWZTUWJfcWZIOFcxZDFIUnhCTHgzVzBIZzd2cEtFUWpoMWtQY0ZZRkdMRlk2OVhuRmJCOGNCMmI5aThWdw?oc=5"
         },
         {
-          "at": "10-08 14:00",
-          "kw": "트럼프",
-          "title": "이목 끈 트럼프 옆 여성의 정체는 ‘랩틸리언 외계인’? - 주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mQ0xjdzlvVlRKZDI4QWJUem5JMVpoaFBsU3NpQjZ4cUlQSXRCOFp3eTJ3QmRiR0JJNEJGVnl0WFJhZWNWYjh4Q1FmSlpUNVFhTmYtZFBnc2pqZlNJbkE?oc=5"
-        },
-        {
-          "at": "10-08 13:36",
+          "at": "10-09 13:06",
           "kw": "연준",
-          "title": "연준 월러 \"추가 금리 인상 예상하지만, 연속으로 할 필요 없어\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15ZzF5V3FscjJLRndHVjhsczVORnJjemdHclpmelVvRzVVbloxMmdyYzQ0cjA0X3dZNVFvMmwxTzY2MEpZdFIxOWhQQ2dERTBsbFdnTTRObFNWMVFEVHJhbGhQbVhnaVYyQ09kdGVSQk4?oc=5"
+          "title": "연준 이사 인준 막혔던 '금본위제 옹호론자', 트럼프 재무부로 돌아왔다 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZE5iSnNLUG1NcWN4elp4SjBPbVpqbU1QVjdkazFpUEZQQUhYNTdSSTZzR3ZZRjk4a2NESTlyRWFZdHdnRXQ2eWFTNmk2cGNhdkxHMFZzVS1NMk5M?oc=5"
         },
         {
-          "at": "10-08 13:24",
-          "kw": "브로드컴",
-          "title": "뉴욕증시 개장 전 특징주...울프스피드·팔란티어·헤모네틱스↑ VS 브로드컴·TSMC·리바이스트라우스↓ - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ad1RFdzNxTV9mejVHUTg1MzFoU3JqSmZqTlQzeTZSYXd5SmF1SzBORmMycnZ4TElEaDI5eWE4SXp1UkFsMk9MeGdjV3VxYkxyY29iSjd6Zk5rNlhD?oc=5"
+          "at": "10-09 12:27",
+          "kw": "퀄컴",
+          "title": "[美특징주]퀄컴·암(Arm)홀딩스, 법적 공방 본격화…개장전↑ - 이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlZSY1E5b0lET3JEM3daSG5NN0pMTUpqNnk0TWZVaml5UF9XcDBPWXBoSmZDdGlWOU9pTGpPZXl4VVhDLVl3dGZ2Yy1CTzBmLXRwaVQzVC1VMGlmZDZ6NUhhZHBtXy1KbnZqZHdxSGg0UlBvQ3hlclpwRklYUGVBXw?oc=5"
         },
         {
-          "at": "10-08 12:55",
-          "kw": "반도체",
-          "title": "반도체 ETF 리밸런싱에 변동성 커져…삼성전자 2000억 팔고 소부장 더 담는다 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iYmVVbGNvMzI1RklwMlMyMkpCandBdVdSdkgxX1gzOTNLdThubk9qbFh4elFnTDZHaUJfWDUweGNmMUNkUzVQYkNEQVhjZw?oc=5"
-        },
-        {
-          "at": "10-08 12:45",
-          "kw": "펩시코",
-          "title": "[미국 특징주] 펩시코, 북미 비용 상승 압박에 이익 전망 하향 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oSDhwQnE1dFVHMUNCZk5ndlZDT0tfZnMzUGl3d3VSbVN5T1NWWTEyNzUyVUtrRUx0b0lHM1VVMWRuWHJFYXA0UVlLVGJUeWhZOGVOZlJHWk5HRTNL?oc=5"
-        },
-        {
-          "at": "10-08 12:44",
-          "kw": "JP모건",
-          "title": "뉴로진, 희귀 유전질환 치료제 개발 주목...투자의견 '매수'-JP모건 - 마켓인",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ianRHelpPd1BFWll4aTZhVk0zV0ZUalpuZklJTEE1UVIwaWhDdkVYRVQ3THFYU1BlWFpyeWdxbjhSeXl6aTJ5R08tUFhheHRQNjRPa1BWLTdRa3pBd3ZIdS13NzZPZzBPZEJuQTBnQjR1X3c?oc=5"
+          "at": "10-09 11:48",
+          "kw": "원달러 환율",
+          "title": "달러-원, 뉴욕장서 1,340원 초반대 거래 - KB Think",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUFhQcEd3S1NiSU53UjgzQ0NUMHB2aWZHQ3BCNEJkSVBJclBBdnpVTEplM1paSDgzcUdGb3BwSnlNMjRqNExjbklyVGxub25LY2hIOVowRFVrZFNXN01ZandOeXYyQTdlV05fMndkN1pwUQ?oc=5"
         }
       ]
     }
